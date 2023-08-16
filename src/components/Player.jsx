@@ -17,11 +17,7 @@ const Player = ({ player }) => {
           <Genre key={genre.id} genre={genre} />
         ))}
       </div>
-      <div className="batting_stats">
-        {movie.genres.map((genre) => (
-          <Genre key={genre.id} genre={genre} />
-        ))}
-      </div>
+      <div className="batting_stats"></div>
     </div>
   )
 }

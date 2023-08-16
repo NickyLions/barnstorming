@@ -1,6 +1,7 @@
 [
   {
     "player": "Satchel Paige",
+    "id": 1,
     "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
     "team": "Kansas City Monarchs",
     "position": "Pitcher",
@@ -21,6 +22,7 @@
 
   {
     "player": "Bullet Rogan",
+    "id": 2,
     "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
     "team": "Kansas City Monarchs",
     "position": "Pitcher",
@@ -41,6 +43,7 @@
 
   {
     "player": "Josh Gibson",
+    "id": 3,
     "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
     "team": "Homestead Grays",
     "position": "Outfield",
@@ -60,6 +63,7 @@
 
   {
     "player": "Cool Papa Bell",
+    "id": 4,
     "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
     "team": "St. Louis Stars",
     "position": "Pitcher",
@@ -80,6 +84,7 @@
 
   {
     "player": "Oscar Charleston",
+    "id": 5,
     "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
     "team": "Pittsburgh Crawfords",
     "position": "Outfield",
@@ -99,6 +104,7 @@
 
   {
     "player": "Buck Leonard",
+    "id": 6,
     "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
     "team": "Homestead Grays",
     "position": "1st Base",
@@ -118,6 +124,7 @@
 
   {
     "player": "Turkey Stearnes",
+    "id": 7,
     "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
     "team": "Detroit Stars",
     "position": "Outfield",
@@ -137,6 +144,7 @@
 
   {
     "player": "Judy Johnson",
+    "id": 8,
     "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
     "team": "Hilldale Daisies",
     "position": "3rd Base",
@@ -156,6 +164,7 @@
 
   {
     "player": "Mule Suttles",
+    "id": 9,
     "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
     "team": "Newark Eagles",
     "position": "1st Base",
@@ -175,6 +184,7 @@
 
   {
     "player": "Ray Dandridge",
+    "id": 10,
     "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
     "team": "New York Cubans",
     "position": "2nd Base",
@@ -194,6 +204,7 @@
 
   {
     "player": "Martin Dihigo",
+    "id": 11,
     "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
     "team": "New York Cubans",
     "position": "Shortstop",
@@ -213,6 +224,7 @@
 
   {
     "player": "Hilton Smith",
+    "id": 12,
     "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
     "team": "Kansas City Monarchs",
     "position": "Pitcher",
@@ -233,6 +245,7 @@
 
   {
     "player": "Willie Wells",
+    "id": 13,
     "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
     "team": "St. Louis Stars",
     "position": "Shortstop",
@@ -252,6 +265,7 @@
 
   {
     "player": "Pop Llyod",
+    "id": 14,
     "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
     "team": "Hilldale Daisies",
     "position": "2nd Base",
@@ -271,6 +285,7 @@
 
   {
     "player": "Biz Mackey",
+    "id": 15,
     "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
     "team": "Newark Eagles",
     "position": "Catcher",
@@ -290,6 +305,7 @@
 
   {
     "player": "Larry Doby",
+    "id": 16,
     "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
     "team": "Newark Eagles",
     "position": "Outfield",
@@ -309,6 +325,7 @@
 
   {
     "player": "Rap Dixon",
+    "id": 17,
     "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
     "team": "Homestead Grays",
     "position": "Outfield",
@@ -328,6 +345,7 @@
 
   {
     "player": "Leon Day",
+    "id": 18,
     "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
     "team": "Baltimore Elite Giants",
     "position": "Outfield",
@@ -347,6 +365,7 @@
 
   {
     "player": "Buck O'Neil",
+    "id": 19,
     "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
     "team": "Kansas City Monarchs",
     "position": "1st Base",
@@ -366,6 +385,7 @@
 
   {
     "player": "John Henry, Pop, Lloyd",
+    "id": 20,
     "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
     "team": "Kansas City Monarchs",
     "position": "Shortstop",
@@ -385,6 +405,7 @@
 
   {
     "player": "Willard Brown",
+    "id": 21,
     "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
     "team": "Kansas City Monarchs",
     "position": "Outfield",
@@ -404,6 +425,7 @@
 
   {
     "player": "Ted, Double Duty, Radcliffe",
+    "id": 22,
     "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
     "team": "Chicago American Giants",
     "position": "Catcher",
@@ -423,6 +445,7 @@
 
   {
     "player": "Jud Wilson",
+    "id": 23,
     "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
     "team": "Homestead Grays",
     "position": "3rd Base",
@@ -442,6 +465,7 @@
 
   {
     "player": "Monte Irvin",
+    "id": 24,
     "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
     "team": "Newark Eagles",
     "position": "Outfield",
@@ -461,6 +485,7 @@
 
   {
     "player": "Jackie Robinson",
+    "id": 25,
     "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
     "team": "Kansas City Monarchs",
     "position": "Shortstop",
