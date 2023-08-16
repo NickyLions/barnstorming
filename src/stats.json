@@ -1,0 +1,455 @@
+[
+  {
+    "Player": "Satchel Paige",
+    "Team": "Kansas City Monarchs",
+    "Position": "Pitcher",
+    "Pitching Stats": {
+      "Earned Run Average (ERA)": 2.75,
+      "Wins (W)": 18,
+      "Losses (L)": 5,
+      "Innings Pitched (IP)": 220.2,
+      "Hits Allowed (H)": 175,
+      "Walks (BB)": 45,
+      "Strikeouts (SO)": 230,
+      "Complete Games (CG)": 5,
+      "Shutouts (SHO)": 3,
+      "Saves (SV)": 2
+    },
+    "Batting Stats": null
+  },
+
+  {
+    "Player": "Bullet Rogan",
+    "Team": "Kansas City Monarchs",
+    "Position": "Pitcher",
+    "Pitching Stats": {
+      "Earned Run Average (ERA)": 2.75,
+      "Wins (W)": 18,
+      "Losses (L)": 5,
+      "Innings Pitched (IP)": 220.2,
+      "Hits Allowed (H)": 175,
+      "Walks (BB)": 45,
+      "Strikeouts (SO)": 230,
+      "Complete Games (CG)": 5,
+      "Shutouts (SHO)": 3,
+      "Saves (SV)": 2
+    },
+    "Batting Stats": null
+  },
+
+  {
+    "Player": "Josh Gibson",
+    "Team": "Homestead Grays",
+    "Position": "Outfield",
+    "Pitching Stats": null,
+    "Batting Stats": {
+      "Batting Average (AVG)": 0.248,
+      "On-Base Percentage (OBP)": 0.32,
+      "Slugging Percentage (SLG)": 0.45,
+      "Total Hits": 100,
+      "Home Runs (HR)": 12,
+      "Runs Batted In (RBI)": 45,
+      "Runs Scored (R)": 50,
+      "Walks (BB)": 25,
+      "Strikeouts (SO)": 70
+    }
+  },
+
+  {
+    "Player": "Cool Papa Bell",
+    "Team": "St. Louis Stars",
+    "Position": "Pitcher",
+    "Pitching Stats": {
+      "Earned Run Average (ERA)": 2.75,
+      "Wins (W)": 18,
+      "Losses (L)": 5,
+      "Innings Pitched (IP)": 220.2,
+      "Hits Allowed (H)": 175,
+      "Walks (BB)": 45,
+      "Strikeouts (SO)": 230,
+      "Complete Games (CG)": 5,
+      "Shutouts (SHO)": 3,
+      "Saves (SV)": 2
+    },
+    "Batting Stats": null
+  },
+
+  {
+    "Player": "Oscar Charleston",
+    "Team": "Pittsburgh Crawfords",
+    "Position": "Outfield",
+    "Pitching Stats": null,
+    "Batting Stats": {
+      "Batting Average (AVG)": 0.32,
+      "On-Base Percentage (OBP)": 0.41,
+      "Slugging Percentage (SLG)": 0.62,
+      "Total Hits": 180,
+      "Home Runs (HR)": 35,
+      "Runs Batted In (RBI)": 120,
+      "Runs Scored (R)": 110,
+      "Walks (BB)": 70,
+      "Strikeouts (SO)": 75
+    }
+  },
+
+  {
+    "Player": "Buck Leonard",
+    "Team": "Homestead Grays",
+    "Position": "1st Base",
+    "Pitching Stats": null,
+    "Batting Stats": {
+      "Batting Average (AVG)": 0.248,
+      "On-Base Percentage (OBP)": 0.32,
+      "Slugging Percentage (SLG)": 0.45,
+      "Total Hits": 100,
+      "Home Runs (HR)": 12,
+      "Runs Batted In (RBI)": 45,
+      "Runs Scored (R)": 50,
+      "Walks (BB)": 25,
+      "Strikeouts (SO)": 70
+    }
+  },
+
+  {
+    "Player": "Turkey Stearnes",
+    "Team": "Detroit Stars",
+    "Position": "Outfield",
+    "Pitching Stats": null,
+    "Batting Stats": {
+      "Batting Average (AVG)": 0.32,
+      "On-Base Percentage (OBP)": 0.41,
+      "Slugging Percentage (SLG)": 0.62,
+      "Total Hits": 180,
+      "Home Runs (HR)": 35,
+      "Runs Batted In (RBI)": 120,
+      "Runs Scored (R)": 110,
+      "Walks (BB)": 70,
+      "Strikeouts (SO)": 75
+    }
+  },
+
+  {
+    "Player": "Judy Johnson",
+    "Team": "Hilldale Daisies",
+    "Position": "3rd Base",
+    "Pitching Stats": null,
+    "Batting Stats": {
+      "Batting Average (AVG)": 0.32,
+      "On-Base Percentage (OBP)": 0.41,
+      "Slugging Percentage (SLG)": 0.62,
+      "Total Hits": 180,
+      "Home Runs (HR)": 35,
+      "Runs Batted In (RBI)": 120,
+      "Runs Scored (R)": 110,
+      "Walks (BB)": 70,
+      "Strikeouts (SO)": 75
+    }
+  },
+
+  {
+    "Player": "Mule Suttles",
+    "Team": "Newark Eagles",
+    "Position": "1st Base",
+    "Pitching Stats": null,
+    "Batting Stats": {
+      "Batting Average (AVG)": 0.32,
+      "On-Base Percentage (OBP)": 0.41,
+      "Slugging Percentage (SLG)": 0.62,
+      "Total Hits": 180,
+      "Home Runs (HR)": 35,
+      "Runs Batted In (RBI)": 120,
+      "Runs Scored (R)": 110,
+      "Walks (BB)": 70,
+      "Strikeouts (SO)": 75
+    }
+  },
+
+  {
+    "Player": "Ray Dandridge",
+    "Team": "New York Cubans",
+    "Position": "2nd Base",
+    "Pitching Stats": null,
+    "Batting Stats": {
+      "Batting Average (AVG)": 0.248,
+      "On-Base Percentage (OBP)": 0.32,
+      "Slugging Percentage (SLG)": 0.45,
+      "Total Hits": 100,
+      "Home Runs (HR)": 12,
+      "Runs Batted In (RBI)": 45,
+      "Runs Scored (R)": 50,
+      "Walks (BB)": 25,
+      "Strikeouts (SO)": 70
+    }
+  },
+
+  {
+    "Player": "Martin Dihigo",
+    "Team": "New York Cubans",
+    "Position": "Shortstop",
+    "Pitching Stats": null,
+    "Batting Stats": {
+      "Batting Average (AVG)": 0.32,
+      "On-Base Percentage (OBP)": 0.41,
+      "Slugging Percentage (SLG)": 0.62,
+      "Total Hits": 180,
+      "Home Runs (HR)": 35,
+      "Runs Batted In (RBI)": 120,
+      "Runs Scored (R)": 110,
+      "Walks (BB)": 70,
+      "Strikeouts (SO)": 75
+    }
+  },
+
+  {
+    "Player": "Hilton Smith",
+    "Team": "Kansas City Monarchs",
+    "Position": "Pitcher",
+    "Pitching Stats": {
+      "Earned Run Average (ERA)": 2.75,
+      "Wins (W)": 18,
+      "Losses (L)": 5,
+      "Innings Pitched (IP)": 220.2,
+      "Hits Allowed (H)": 175,
+      "Walks (BB)": 45,
+      "Strikeouts (SO)": 230,
+      "Complete Games (CG)": 5,
+      "Shutouts (SHO)": 3,
+      "Saves (SV)": 2
+    },
+    "Batting Stats": null
+  },
+
+  {
+    "Player": "Willie Wells",
+    "Team": "St. Louis Stars",
+    "Position": "Shortstop",
+    "Pitching Stats": null,
+    "Batting Stats": {
+      "Batting Average (AVG)": 0.248,
+      "On-Base Percentage (OBP)": 0.32,
+      "Slugging Percentage (SLG)": 0.45,
+      "Total Hits": 100,
+      "Home Runs (HR)": 12,
+      "Runs Batted In (RBI)": 45,
+      "Runs Scored (R)": 50,
+      "Walks (BB)": 25,
+      "Strikeouts (SO)": 70
+    }
+  },
+
+  {
+    "Player": "Pop Llyod",
+    "Team": "Hilldale Daisies",
+    "Position": "2nd Base",
+    "Pitching Stats": null,
+    "Batting Stats": {
+      "Batting Average (AVG)": 0.32,
+      "On-Base Percentage (OBP)": 0.41,
+      "Slugging Percentage (SLG)": 0.62,
+      "Total Hits": 180,
+      "Home Runs (HR)": 35,
+      "Runs Batted In (RBI)": 120,
+      "Runs Scored (R)": 110,
+      "Walks (BB)": 70,
+      "Strikeouts (SO)": 75
+    }
+  },
+
+  {
+    "Player": "Biz Mackey",
+    "Team": "Newark Eagles",
+    "Position": "Catcher",
+    "Pitching Stats": null,
+    "Batting Stats": {
+      "Batting Average (AVG)": 0.248,
+      "On-Base Percentage (OBP)": 0.32,
+      "Slugging Percentage (SLG)": 0.45,
+      "Total Hits": 100,
+      "Home Runs (HR)": 12,
+      "Runs Batted In (RBI)": 45,
+      "Runs Scored (R)": 50,
+      "Walks (BB)": 25,
+      "Strikeouts (SO)": 70
+    }
+  },
+
+  {
+    "Player": "Larry Doby",
+    "Team": "Newark Eagles",
+    "Position": "Outfield",
+    "Pitching Stats": null,
+    "Batting Stats": {
+      "Batting Average (AVG)": 0.32,
+      "On-Base Percentage (OBP)": 0.41,
+      "Slugging Percentage (SLG)": 0.62,
+      "Total Hits": 180,
+      "Home Runs (HR)": 35,
+      "Runs Batted In (RBI)": 120,
+      "Runs Scored (R)": 110,
+      "Walks (BB)": 70,
+      "Strikeouts (SO)": 75
+    }
+  },
+
+  {
+    "Player": "Rap Dixon",
+    "Team": "Homestead Grays",
+    "Position": "Outfield",
+    "Pitching Stats": null,
+    "Batting Stats": {
+      "Batting Average (AVG)": 0.32,
+      "On-Base Percentage (OBP)": 0.41,
+      "Slugging Percentage (SLG)": 0.62,
+      "Total Hits": 180,
+      "Home Runs (HR)": 35,
+      "Runs Batted In (RBI)": 120,
+      "Runs Scored (R)": 110,
+      "Walks (BB)": 70,
+      "Strikeouts (SO)": 75
+    }
+  },
+
+  {
+    "Player": "Leon Day",
+    "Team": "Baltimore Elite Giants",
+    "Position": "Outfield",
+    "Pitching Stats": null,
+    "Batting Stats": {
+      "Batting Average (AVG)": 0.32,
+      "On-Base Percentage (OBP)": 0.41,
+      "Slugging Percentage (SLG)": 0.62,
+      "Total Hits": 180,
+      "Home Runs (HR)": 35,
+      "Runs Batted In (RBI)": 120,
+      "Runs Scored (R)": 110,
+      "Walks (BB)": 70,
+      "Strikeouts (SO)": 75
+    }
+  },
+
+  {
+    "Player": "Buck O'Neil",
+    "Team": "Kansas City Monarchs",
+    "Position": "1st Base",
+    "Pitching Stats": null,
+    "Batting Stats": {
+      "Batting Average (AVG)": 0.32,
+      "On-Base Percentage (OBP)": 0.41,
+      "Slugging Percentage (SLG)": 0.62,
+      "Total Hits": 180,
+      "Home Runs (HR)": 35,
+      "Runs Batted In (RBI)": 120,
+      "Runs Scored (R)": 110,
+      "Walks (BB)": 70,
+      "Strikeouts (SO)": 75
+    }
+  },
+
+  {
+    "Player": "John Henry, Pop, Lloyd",
+    "Team": "Kansas City Monarchs",
+    "Position": "Shortstop",
+    "Pitching Stats": null,
+    "Batting Stats": {
+      "Batting Average (AVG)": 0.248,
+      "On-Base Percentage (OBP)": 0.32,
+      "Slugging Percentage (SLG)": 0.45,
+      "Total Hits": 100,
+      "Home Runs (HR)": 12,
+      "Runs Batted In (RBI)": 45,
+      "Runs Scored (R)": 50,
+      "Walks (BB)": 25,
+      "Strikeouts (SO)": 70
+    }
+  },
+
+  {
+    "Player": "Willard Brown",
+    "Team": "Kansas City Monarchs",
+    "Position": "Outfield",
+    "Pitching Stats": null,
+    "Batting Stats": {
+      "Batting Average (AVG)": 0.32,
+      "On-Base Percentage (OBP)": 0.41,
+      "Slugging Percentage (SLG)": 0.62,
+      "Total Hits": 180,
+      "Home Runs (HR)": 35,
+      "Runs Batted In (RBI)": 120,
+      "Runs Scored (R)": 110,
+      "Walks (BB)": 70,
+      "Strikeouts (SO)": 75
+    }
+  },
+
+  {
+    "Player": "Ted, Double Duty, Radcliffe",
+    "Team": "Chicago American Giants",
+    "Position": "Catcher",
+    "Pitching Stats": null,
+    "Batting Stats": {
+      "Batting Average (AVG)": 0.32,
+      "On-Base Percentage (OBP)": 0.41,
+      "Slugging Percentage (SLG)": 0.62,
+      "Total Hits": 180,
+      "Home Runs (HR)": 35,
+      "Runs Batted In (RBI)": 120,
+      "Runs Scored (R)": 110,
+      "Walks (BB)": 70,
+      "Strikeouts (SO)": 75
+    }
+  },
+
+  {
+    "Player": "Jud Wilson",
+    "Team": "Homestead Grays",
+    "Position": "3rd Base",
+    "Pitching Stats": null,
+    "Batting Stats": {
+      "Batting Average (AVG)": 0.32,
+      "On-Base Percentage (OBP)": 0.41,
+      "Slugging Percentage (SLG)": 0.62,
+      "Total Hits": 180,
+      "Home Runs (HR)": 35,
+      "Runs Batted In (RBI)": 120,
+      "Runs Scored (R)": 110,
+      "Walks (BB)": 70,
+      "Strikeouts (SO)": 75
+    }
+  },
+
+  {
+    "Player": "Monte Irvin",
+    "Team": "Newark Eagles",
+    "Position": "Outfield",
+    "Pitching Stats": null,
+    "Batting Stats": {
+      "Batting Average (AVG)": 0.32,
+      "On-Base Percentage (OBP)": 0.41,
+      "Slugging Percentage (SLG)": 0.62,
+      "Total Hits": 180,
+      "Home Runs (HR)": 35,
+      "Runs Batted In (RBI)": 120,
+      "Runs Scored (R)": 110,
+      "Walks (BB)": 70,
+      "Strikeouts (SO)": 75
+    }
+  },
+
+  {
+    "Player": "Jackie Robinson",
+    "Team": "Kansas City Monarchs",
+    "Position": "Shortstop",
+    "Pitching Stats": null,
+    "Batting Stats": {
+      "Batting Average (AVG)": 0.32,
+      "On-Base Percentage (OBP)": 0.41,
+      "Slugging Percentage (SLG)": 0.62,
+      "Total Hits": 180,
+      "Home Runs (HR)": 35,
+      "Runs Batted In (RBI)": 120,
+      "Runs Scored (R)": 110,
+      "Walks (BB)": 70,
+      "Strikeouts (SO)": 75
+    }
+  }
+]
