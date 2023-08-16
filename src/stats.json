@@ -1,455 +1,480 @@
 [
   {
-    "Player": "Satchel Paige",
-    "Team": "Kansas City Monarchs",
-    "Position": "Pitcher",
-    "Pitching Stats": {
-      "Earned Run Average (ERA)": 2.75,
-      "Wins (W)": 18,
-      "Losses (L)": 5,
-      "Innings Pitched (IP)": 220.2,
-      "Hits Allowed (H)": 175,
-      "Walks (BB)": 45,
-      "Strikeouts (SO)": 230,
-      "Complete Games (CG)": 5,
-      "Shutouts (SHO)": 3,
-      "Saves (SV)": 2
+    "player": "Satchel Paige",
+    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "team": "Kansas City Monarchs",
+    "position": "Pitcher",
+    "pitchingStats": {
+      "era": 2.75,
+      "wins": 18,
+      "losses": 5,
+      "inningsPitched": 220.2,
+      "hitsAllowed": 175,
+      "walks": 45,
+      "strikeouts": 230,
+      "completeGames": 5,
+      "shutouts": 3,
+      "saves": 2
     },
-    "Batting Stats": null
+    "battingStats": null
   },
 
   {
-    "Player": "Bullet Rogan",
-    "Team": "Kansas City Monarchs",
-    "Position": "Pitcher",
-    "Pitching Stats": {
-      "Earned Run Average (ERA)": 2.75,
-      "Wins (W)": 18,
-      "Losses (L)": 5,
-      "Innings Pitched (IP)": 220.2,
-      "Hits Allowed (H)": 175,
-      "Walks (BB)": 45,
-      "Strikeouts (SO)": 230,
-      "Complete Games (CG)": 5,
-      "Shutouts (SHO)": 3,
-      "Saves (SV)": 2
+    "player": "Bullet Rogan",
+    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "team": "Kansas City Monarchs",
+    "position": "Pitcher",
+    "pitchingStats": {
+      "era": 2.75,
+      "wins": 18,
+      "losses": 5,
+      "inningsPitched": 220.2,
+      "hitsAllowed": 175,
+      "walks": 45,
+      "strikeouts": 230,
+      "completeGames": 5,
+      "shutouts": 3,
+      "saves": 2
     },
-    "Batting Stats": null
+    "battingStats": null
   },
 
   {
-    "Player": "Josh Gibson",
-    "Team": "Homestead Grays",
-    "Position": "Outfield",
-    "Pitching Stats": null,
-    "Batting Stats": {
-      "Batting Average (AVG)": 0.248,
-      "On-Base Percentage (OBP)": 0.32,
-      "Slugging Percentage (SLG)": 0.45,
-      "Total Hits": 100,
-      "Home Runs (HR)": 12,
-      "Runs Batted In (RBI)": 45,
-      "Runs Scored (R)": 50,
-      "Walks (BB)": 25,
-      "Strikeouts (SO)": 70
+    "player": "Josh Gibson",
+    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "team": "Homestead Grays",
+    "position": "Outfield",
+    "pitchingStats": null,
+    "battingStats": {
+      "avg": 0.248,
+      "obp": 0.32,
+      "slg": 0.45,
+      "hits": 100,
+      "hr": 12,
+      "rbi": 45,
+      "runs": 50,
+      "walks": 25,
+      "strikeouts": 70
     }
   },
 
   {
-    "Player": "Cool Papa Bell",
-    "Team": "St. Louis Stars",
-    "Position": "Pitcher",
-    "Pitching Stats": {
-      "Earned Run Average (ERA)": 2.75,
-      "Wins (W)": 18,
-      "Losses (L)": 5,
-      "Innings Pitched (IP)": 220.2,
-      "Hits Allowed (H)": 175,
-      "Walks (BB)": 45,
-      "Strikeouts (SO)": 230,
-      "Complete Games (CG)": 5,
-      "Shutouts (SHO)": 3,
-      "Saves (SV)": 2
+    "player": "Cool Papa Bell",
+    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "team": "St. Louis Stars",
+    "position": "Pitcher",
+    "pitchingStats": {
+      "era": 2.75,
+      "wins": 18,
+      "losses": 5,
+      "inningsPitched": 220.2,
+      "hitsAllowed": 175,
+      "walks": 45,
+      "strikeouts": 230,
+      "completeGames": 5,
+      "shutouts": 3,
+      "saves": 2
     },
-    "Batting Stats": null
+    "battingStats": null
   },
 
   {
-    "Player": "Oscar Charleston",
-    "Team": "Pittsburgh Crawfords",
-    "Position": "Outfield",
-    "Pitching Stats": null,
-    "Batting Stats": {
-      "Batting Average (AVG)": 0.32,
-      "On-Base Percentage (OBP)": 0.41,
-      "Slugging Percentage (SLG)": 0.62,
-      "Total Hits": 180,
-      "Home Runs (HR)": 35,
-      "Runs Batted In (RBI)": 120,
-      "Runs Scored (R)": 110,
-      "Walks (BB)": 70,
-      "Strikeouts (SO)": 75
+    "player": "Oscar Charleston",
+    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "team": "Pittsburgh Crawfords",
+    "position": "Outfield",
+    "pitchingStats": null,
+    "battingStats": {
+      "avg": 0.32,
+      "obp": 0.41,
+      "slg": 0.62,
+      "hits": 180,
+      "hr": 35,
+      "rbi": 120,
+      "runs": 110,
+      "walks": 70,
+      "strikeouts": 75
     }
   },
 
   {
-    "Player": "Buck Leonard",
-    "Team": "Homestead Grays",
-    "Position": "1st Base",
-    "Pitching Stats": null,
-    "Batting Stats": {
-      "Batting Average (AVG)": 0.248,
-      "On-Base Percentage (OBP)": 0.32,
-      "Slugging Percentage (SLG)": 0.45,
-      "Total Hits": 100,
-      "Home Runs (HR)": 12,
-      "Runs Batted In (RBI)": 45,
-      "Runs Scored (R)": 50,
-      "Walks (BB)": 25,
-      "Strikeouts (SO)": 70
+    "player": "Buck Leonard",
+    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "team": "Homestead Grays",
+    "position": "1st Base",
+    "pitchingStats": null,
+    "battingStats": {
+      "avg": 0.248,
+      "obp": 0.32,
+      "slg": 0.45,
+      "hits": 100,
+      "hr": 12,
+      "rbi": 45,
+      "runs": 50,
+      "walks": 25,
+      "strikeouts": 70
     }
   },
 
   {
-    "Player": "Turkey Stearnes",
-    "Team": "Detroit Stars",
-    "Position": "Outfield",
-    "Pitching Stats": null,
-    "Batting Stats": {
-      "Batting Average (AVG)": 0.32,
-      "On-Base Percentage (OBP)": 0.41,
-      "Slugging Percentage (SLG)": 0.62,
-      "Total Hits": 180,
-      "Home Runs (HR)": 35,
-      "Runs Batted In (RBI)": 120,
-      "Runs Scored (R)": 110,
-      "Walks (BB)": 70,
-      "Strikeouts (SO)": 75
+    "player": "Turkey Stearnes",
+    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "team": "Detroit Stars",
+    "position": "Outfield",
+    "pitchingStats": null,
+    "battingStats": {
+      "avg": 0.32,
+      "obp": 0.41,
+      "slg": 0.62,
+      "hits": 180,
+      "hr": 35,
+      "rbi": 120,
+      "runs": 110,
+      "walks": 70,
+      "strikeouts": 75
     }
   },
 
   {
-    "Player": "Judy Johnson",
-    "Team": "Hilldale Daisies",
-    "Position": "3rd Base",
-    "Pitching Stats": null,
-    "Batting Stats": {
-      "Batting Average (AVG)": 0.32,
-      "On-Base Percentage (OBP)": 0.41,
-      "Slugging Percentage (SLG)": 0.62,
-      "Total Hits": 180,
-      "Home Runs (HR)": 35,
-      "Runs Batted In (RBI)": 120,
-      "Runs Scored (R)": 110,
-      "Walks (BB)": 70,
-      "Strikeouts (SO)": 75
+    "player": "Judy Johnson",
+    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "team": "Hilldale Daisies",
+    "position": "3rd Base",
+    "pitchingStats": null,
+    "battingStats": {
+      "avg": 0.32,
+      "obp": 0.41,
+      "slg": 0.62,
+      "hits": 180,
+      "hr": 35,
+      "rbi": 120,
+      "runs": 110,
+      "walks": 70,
+      "strikeouts": 75
     }
   },
 
   {
-    "Player": "Mule Suttles",
-    "Team": "Newark Eagles",
-    "Position": "1st Base",
-    "Pitching Stats": null,
-    "Batting Stats": {
-      "Batting Average (AVG)": 0.32,
-      "On-Base Percentage (OBP)": 0.41,
-      "Slugging Percentage (SLG)": 0.62,
-      "Total Hits": 180,
-      "Home Runs (HR)": 35,
-      "Runs Batted In (RBI)": 120,
-      "Runs Scored (R)": 110,
-      "Walks (BB)": 70,
-      "Strikeouts (SO)": 75
+    "player": "Mule Suttles",
+    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "team": "Newark Eagles",
+    "position": "1st Base",
+    "pitchingStats": null,
+    "battingStats": {
+      "avg": 0.32,
+      "obp": 0.41,
+      "slg": 0.62,
+      "hits": 180,
+      "hr": 35,
+      "rbi": 120,
+      "runs": 110,
+      "walks": 70,
+      "strikeouts": 75
     }
   },
 
   {
-    "Player": "Ray Dandridge",
-    "Team": "New York Cubans",
-    "Position": "2nd Base",
-    "Pitching Stats": null,
-    "Batting Stats": {
-      "Batting Average (AVG)": 0.248,
-      "On-Base Percentage (OBP)": 0.32,
-      "Slugging Percentage (SLG)": 0.45,
-      "Total Hits": 100,
-      "Home Runs (HR)": 12,
-      "Runs Batted In (RBI)": 45,
-      "Runs Scored (R)": 50,
-      "Walks (BB)": 25,
-      "Strikeouts (SO)": 70
+    "player": "Ray Dandridge",
+    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "team": "New York Cubans",
+    "position": "2nd Base",
+    "pitchingStats": null,
+    "battingStats": {
+      "avg": 0.248,
+      "obp": 0.32,
+      "slg": 0.45,
+      "hits": 100,
+      "hr": 12,
+      "rbi": 45,
+      "runs": 50,
+      "walks": 25,
+      "strikeouts": 70
     }
   },
 
   {
-    "Player": "Martin Dihigo",
-    "Team": "New York Cubans",
-    "Position": "Shortstop",
-    "Pitching Stats": null,
-    "Batting Stats": {
-      "Batting Average (AVG)": 0.32,
-      "On-Base Percentage (OBP)": 0.41,
-      "Slugging Percentage (SLG)": 0.62,
-      "Total Hits": 180,
-      "Home Runs (HR)": 35,
-      "Runs Batted In (RBI)": 120,
-      "Runs Scored (R)": 110,
-      "Walks (BB)": 70,
-      "Strikeouts (SO)": 75
+    "player": "Martin Dihigo",
+    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "team": "New York Cubans",
+    "position": "Shortstop",
+    "pitchingStats": null,
+    "battingStats": {
+      "avg": 0.32,
+      "obp": 0.41,
+      "slg": 0.62,
+      "hits": 180,
+      "hr": 35,
+      "rbi": 120,
+      "runs": 110,
+      "walks": 70,
+      "strikeouts": 75
     }
   },
 
   {
-    "Player": "Hilton Smith",
-    "Team": "Kansas City Monarchs",
-    "Position": "Pitcher",
-    "Pitching Stats": {
-      "Earned Run Average (ERA)": 2.75,
-      "Wins (W)": 18,
-      "Losses (L)": 5,
-      "Innings Pitched (IP)": 220.2,
-      "Hits Allowed (H)": 175,
-      "Walks (BB)": 45,
-      "Strikeouts (SO)": 230,
-      "Complete Games (CG)": 5,
-      "Shutouts (SHO)": 3,
-      "Saves (SV)": 2
+    "player": "Hilton Smith",
+    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "team": "Kansas City Monarchs",
+    "position": "Pitcher",
+    "pitchingStats": {
+      "era": 2.75,
+      "wins": 18,
+      "losses": 5,
+      "inningsPitched": 220.2,
+      "hitsAllowed": 175,
+      "walks": 45,
+      "strikeouts": 230,
+      "completeGames": 5,
+      "shutouts": 3,
+      "saves": 2
     },
-    "Batting Stats": null
+    "battingStats": null
   },
 
   {
-    "Player": "Willie Wells",
-    "Team": "St. Louis Stars",
-    "Position": "Shortstop",
-    "Pitching Stats": null,
-    "Batting Stats": {
-      "Batting Average (AVG)": 0.248,
-      "On-Base Percentage (OBP)": 0.32,
-      "Slugging Percentage (SLG)": 0.45,
-      "Total Hits": 100,
-      "Home Runs (HR)": 12,
-      "Runs Batted In (RBI)": 45,
-      "Runs Scored (R)": 50,
-      "Walks (BB)": 25,
-      "Strikeouts (SO)": 70
+    "player": "Willie Wells",
+    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "team": "St. Louis Stars",
+    "position": "Shortstop",
+    "pitchingStats": null,
+    "battingStats": {
+      "avg": 0.248,
+      "obp": 0.32,
+      "slg": 0.45,
+      "hits": 100,
+      "hr": 12,
+      "rbi": 45,
+      "runs": 50,
+      "walks": 25,
+      "strikeouts": 70
     }
   },
 
   {
-    "Player": "Pop Llyod",
-    "Team": "Hilldale Daisies",
-    "Position": "2nd Base",
-    "Pitching Stats": null,
-    "Batting Stats": {
-      "Batting Average (AVG)": 0.32,
-      "On-Base Percentage (OBP)": 0.41,
-      "Slugging Percentage (SLG)": 0.62,
-      "Total Hits": 180,
-      "Home Runs (HR)": 35,
-      "Runs Batted In (RBI)": 120,
-      "Runs Scored (R)": 110,
-      "Walks (BB)": 70,
-      "Strikeouts (SO)": 75
+    "player": "Pop Llyod",
+    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "team": "Hilldale Daisies",
+    "position": "2nd Base",
+    "pitchingStats": null,
+    "battingStats": {
+      "avg": 0.32,
+      "obp": 0.41,
+      "slg": 0.62,
+      "hits": 180,
+      "hr": 35,
+      "rbi": 120,
+      "runs": 110,
+      "walks": 70,
+      "strikeouts": 75
     }
   },
 
   {
-    "Player": "Biz Mackey",
-    "Team": "Newark Eagles",
-    "Position": "Catcher",
-    "Pitching Stats": null,
-    "Batting Stats": {
-      "Batting Average (AVG)": 0.248,
-      "On-Base Percentage (OBP)": 0.32,
-      "Slugging Percentage (SLG)": 0.45,
-      "Total Hits": 100,
-      "Home Runs (HR)": 12,
-      "Runs Batted In (RBI)": 45,
-      "Runs Scored (R)": 50,
-      "Walks (BB)": 25,
-      "Strikeouts (SO)": 70
+    "player": "Biz Mackey",
+    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "team": "Newark Eagles",
+    "position": "Catcher",
+    "pitchingStats": null,
+    "battingStats": {
+      "avg": 0.248,
+      "obp": 0.32,
+      "slg": 0.45,
+      "hits": 100,
+      "hr": 12,
+      "rbi": 45,
+      "runs": 50,
+      "walks": 25,
+      "strikeouts": 70
     }
   },
 
   {
-    "Player": "Larry Doby",
-    "Team": "Newark Eagles",
-    "Position": "Outfield",
-    "Pitching Stats": null,
-    "Batting Stats": {
-      "Batting Average (AVG)": 0.32,
-      "On-Base Percentage (OBP)": 0.41,
-      "Slugging Percentage (SLG)": 0.62,
-      "Total Hits": 180,
-      "Home Runs (HR)": 35,
-      "Runs Batted In (RBI)": 120,
-      "Runs Scored (R)": 110,
-      "Walks (BB)": 70,
-      "Strikeouts (SO)": 75
+    "player": "Larry Doby",
+    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "team": "Newark Eagles",
+    "position": "Outfield",
+    "pitchingStats": null,
+    "battingStats": {
+      "avg": 0.32,
+      "obp": 0.41,
+      "slg": 0.62,
+      "hits": 180,
+      "hr": 35,
+      "rbi": 120,
+      "runs": 110,
+      "walks": 70,
+      "strikeouts": 75
     }
   },
 
   {
-    "Player": "Rap Dixon",
-    "Team": "Homestead Grays",
-    "Position": "Outfield",
-    "Pitching Stats": null,
-    "Batting Stats": {
-      "Batting Average (AVG)": 0.32,
-      "On-Base Percentage (OBP)": 0.41,
-      "Slugging Percentage (SLG)": 0.62,
-      "Total Hits": 180,
-      "Home Runs (HR)": 35,
-      "Runs Batted In (RBI)": 120,
-      "Runs Scored (R)": 110,
-      "Walks (BB)": 70,
-      "Strikeouts (SO)": 75
+    "player": "Rap Dixon",
+    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "team": "Homestead Grays",
+    "position": "Outfield",
+    "pitchingStats": null,
+    "battingStats": {
+      "avg": 0.32,
+      "obp": 0.41,
+      "slg": 0.62,
+      "hits": 180,
+      "hr": 35,
+      "rbi": 120,
+      "runs": 110,
+      "walks": 70,
+      "strikeouts": 75
     }
   },
 
   {
-    "Player": "Leon Day",
-    "Team": "Baltimore Elite Giants",
-    "Position": "Outfield",
-    "Pitching Stats": null,
-    "Batting Stats": {
-      "Batting Average (AVG)": 0.32,
-      "On-Base Percentage (OBP)": 0.41,
-      "Slugging Percentage (SLG)": 0.62,
-      "Total Hits": 180,
-      "Home Runs (HR)": 35,
-      "Runs Batted In (RBI)": 120,
-      "Runs Scored (R)": 110,
-      "Walks (BB)": 70,
-      "Strikeouts (SO)": 75
+    "player": "Leon Day",
+    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "team": "Baltimore Elite Giants",
+    "position": "Outfield",
+    "pitchingStats": null,
+    "battingStats": {
+      "avg": 0.32,
+      "obp": 0.41,
+      "slg": 0.62,
+      "hits": 180,
+      "hr": 35,
+      "rbi": 120,
+      "runs": 110,
+      "walks": 70,
+      "strikeouts": 75
     }
   },
 
   {
-    "Player": "Buck O'Neil",
-    "Team": "Kansas City Monarchs",
-    "Position": "1st Base",
-    "Pitching Stats": null,
-    "Batting Stats": {
-      "Batting Average (AVG)": 0.32,
-      "On-Base Percentage (OBP)": 0.41,
-      "Slugging Percentage (SLG)": 0.62,
-      "Total Hits": 180,
-      "Home Runs (HR)": 35,
-      "Runs Batted In (RBI)": 120,
-      "Runs Scored (R)": 110,
-      "Walks (BB)": 70,
-      "Strikeouts (SO)": 75
+    "player": "Buck O'Neil",
+    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "team": "Kansas City Monarchs",
+    "position": "1st Base",
+    "pitchingStats": null,
+    "battingStats": {
+      "avg": 0.32,
+      "obp": 0.41,
+      "slg": 0.62,
+      "hits": 180,
+      "hr": 35,
+      "rbi": 120,
+      "runs": 110,
+      "walks": 70,
+      "strikeouts": 75
     }
   },
 
   {
-    "Player": "John Henry, Pop, Lloyd",
-    "Team": "Kansas City Monarchs",
-    "Position": "Shortstop",
-    "Pitching Stats": null,
-    "Batting Stats": {
-      "Batting Average (AVG)": 0.248,
-      "On-Base Percentage (OBP)": 0.32,
-      "Slugging Percentage (SLG)": 0.45,
-      "Total Hits": 100,
-      "Home Runs (HR)": 12,
-      "Runs Batted In (RBI)": 45,
-      "Runs Scored (R)": 50,
-      "Walks (BB)": 25,
-      "Strikeouts (SO)": 70
+    "player": "John Henry, Pop, Lloyd",
+    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "team": "Kansas City Monarchs",
+    "position": "Shortstop",
+    "pitchingStats": null,
+    "battingStats": {
+      "avg": 0.248,
+      "obp": 0.32,
+      "slg": 0.45,
+      "hits": 100,
+      "hr": 12,
+      "rbi": 45,
+      "runs": 50,
+      "walks": 25,
+      "strikeouts": 70
     }
   },
 
   {
-    "Player": "Willard Brown",
-    "Team": "Kansas City Monarchs",
-    "Position": "Outfield",
-    "Pitching Stats": null,
-    "Batting Stats": {
-      "Batting Average (AVG)": 0.32,
-      "On-Base Percentage (OBP)": 0.41,
-      "Slugging Percentage (SLG)": 0.62,
-      "Total Hits": 180,
-      "Home Runs (HR)": 35,
-      "Runs Batted In (RBI)": 120,
-      "Runs Scored (R)": 110,
-      "Walks (BB)": 70,
-      "Strikeouts (SO)": 75
+    "player": "Willard Brown",
+    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "team": "Kansas City Monarchs",
+    "position": "Outfield",
+    "pitchingStats": null,
+    "battingStats": {
+      "avg": 0.32,
+      "obp": 0.41,
+      "slg": 0.62,
+      "hits": 180,
+      "hr": 35,
+      "rbi": 120,
+      "runs": 110,
+      "walks": 70,
+      "strikeouts": 75
     }
   },
 
   {
-    "Player": "Ted, Double Duty, Radcliffe",
-    "Team": "Chicago American Giants",
-    "Position": "Catcher",
-    "Pitching Stats": null,
-    "Batting Stats": {
-      "Batting Average (AVG)": 0.32,
-      "On-Base Percentage (OBP)": 0.41,
-      "Slugging Percentage (SLG)": 0.62,
-      "Total Hits": 180,
-      "Home Runs (HR)": 35,
-      "Runs Batted In (RBI)": 120,
-      "Runs Scored (R)": 110,
-      "Walks (BB)": 70,
-      "Strikeouts (SO)": 75
+    "player": "Ted, Double Duty, Radcliffe",
+    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "team": "Chicago American Giants",
+    "position": "Catcher",
+    "pitchingStats": null,
+    "battingStats": {
+      "avg": 0.32,
+      "obp": 0.41,
+      "slg": 0.62,
+      "hits": 180,
+      "hr": 35,
+      "rbi": 120,
+      "runs": 110,
+      "walks": 70,
+      "strikeouts": 75
     }
   },
 
   {
-    "Player": "Jud Wilson",
-    "Team": "Homestead Grays",
-    "Position": "3rd Base",
-    "Pitching Stats": null,
-    "Batting Stats": {
-      "Batting Average (AVG)": 0.32,
-      "On-Base Percentage (OBP)": 0.41,
-      "Slugging Percentage (SLG)": 0.62,
-      "Total Hits": 180,
-      "Home Runs (HR)": 35,
-      "Runs Batted In (RBI)": 120,
-      "Runs Scored (R)": 110,
-      "Walks (BB)": 70,
-      "Strikeouts (SO)": 75
+    "player": "Jud Wilson",
+    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "team": "Homestead Grays",
+    "position": "3rd Base",
+    "pitchingStats": null,
+    "battingStats": {
+      "avg": 0.32,
+      "obp": 0.41,
+      "slg": 0.62,
+      "hits": 180,
+      "hr": 35,
+      "rbi": 120,
+      "runs": 110,
+      "walks": 70,
+      "strikeouts": 75
     }
   },
 
   {
-    "Player": "Monte Irvin",
-    "Team": "Newark Eagles",
-    "Position": "Outfield",
-    "Pitching Stats": null,
-    "Batting Stats": {
-      "Batting Average (AVG)": 0.32,
-      "On-Base Percentage (OBP)": 0.41,
-      "Slugging Percentage (SLG)": 0.62,
-      "Total Hits": 180,
-      "Home Runs (HR)": 35,
-      "Runs Batted In (RBI)": 120,
-      "Runs Scored (R)": 110,
-      "Walks (BB)": 70,
-      "Strikeouts (SO)": 75
+    "player": "Monte Irvin",
+    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "team": "Newark Eagles",
+    "position": "Outfield",
+    "pitchingStats": null,
+    "battingStats": {
+      "avg": 0.32,
+      "obp": 0.41,
+      "slg": 0.62,
+      "hits": 180,
+      "hr": 35,
+      "rbi": 120,
+      "runs": 110,
+      "walks": 70,
+      "strikeouts": 75
     }
   },
 
   {
-    "Player": "Jackie Robinson",
-    "Team": "Kansas City Monarchs",
-    "Position": "Shortstop",
-    "Pitching Stats": null,
-    "Batting Stats": {
-      "Batting Average (AVG)": 0.32,
-      "On-Base Percentage (OBP)": 0.41,
-      "Slugging Percentage (SLG)": 0.62,
-      "Total Hits": 180,
-      "Home Runs (HR)": 35,
-      "Runs Batted In (RBI)": 120,
-      "Runs Scored (R)": 110,
-      "Walks (BB)": 70,
-      "Strikeouts (SO)": 75
+    "player": "Jackie Robinson",
+    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "team": "Kansas City Monarchs",
+    "position": "Shortstop",
+    "pitchingStats": null,
+    "battingStats": {
+      "avg": 0.32,
+      "obp": 0.41,
+      "slg": 0.62,
+      "hits": 180,
+      "hr": 35,
+      "rbi": 120,
+      "runs": 110,
+      "walks": 70,
+      "strikeouts": 75
     }
   }
 ]
