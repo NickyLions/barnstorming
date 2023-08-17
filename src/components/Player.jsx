@@ -1,4 +1,6 @@
 import Team from './Team'
+import Pitching from './Pitching'
+import Batting from './Batting'
 
 const Player = ({ player }) => {
   return (
@@ -9,6 +11,11 @@ const Player = ({ player }) => {
       <div className="team">
         {player.playerTeam.map((team) => (
           <Team key={team.id} team={team} />
+        ))}
+      </div>
+      <div className="stats">
+        {player.pitchingStats.map((pitching) => (
+          <Pitching key={pitching.id} pitching={pitching} />
         ))}
       </div>
     </div>

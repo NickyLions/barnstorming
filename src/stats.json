@@ -10,22 +10,24 @@
       }
     ],
     "position": "Pitcher",
-    "pitchingStats": [
+    "stats": [
       {
-        "id": 41,
-        "era": 2.75,
-        "wins": 18,
-        "losses": 5,
-        "inningsPitched": 220.2,
-        "hitsAllowed": 175,
-        "walks": 45,
-        "strikeouts": 230,
-        "completeGames": 5,
-        "shutouts": 3,
-        "saves": 2
+        "id": 51,
+        "era": 2.75
+      },
+      {
+        "id": 52,
+        "wins": 18
+      },
+      {
+        "id": 53,
+        "loses": 5
+      },
+      {
+        "id": 54,
+        "shutouts": 5
       }
-    ],
-    "battingStats": null
+    ]
   },
 
   {
