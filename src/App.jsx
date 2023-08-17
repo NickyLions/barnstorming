@@ -1,5 +1,5 @@
 import './App.css'
-import playerStats from './stats.json'
+import statsArray from './stats.json'
 import Player from './components/Player'
 
 const App = () => {
@@ -7,7 +7,7 @@ const App = () => {
     <div className="wrapper">
       <h1>Baseball Players</h1>
       <div className="player-list">
-        {playerStats.map((movie, index) => (
+        {statsArray.map((player, index) => (
           <Player key={player.id} player={player} />
         ))}
       </div>

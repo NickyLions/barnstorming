@@ -1,5 +1,5 @@
 const Team = ({ team }) => {
-  return <div className="team">{stats.team}</div>
+  return <div className="team">{team.name}</div>
 }
 
 export default Team

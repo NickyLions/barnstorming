@@ -1,9 +1,14 @@
 [
   {
-    "player": "Satchel Paige",
+    "playerName": "Satchel Paige",
     "id": 1,
-    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
-    "team": "Kansas City Monarchs",
+    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerTeam": [
+      {
+        "id": 31,
+        "name": "Kansas City Monarchs"
+      }
+    ],
     "position": "Pitcher",
     "pitchingStats": {
       "era": 2.75,
@@ -21,10 +26,15 @@
   },
 
   {
-    "player": "Bullet Rogan",
+    "playerName": "Bullet Rogan",
     "id": 2,
-    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
-    "team": "Kansas City Monarchs",
+    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerTeam": [
+      {
+        "id": 31,
+        "name": "Kansas City Monarchs"
+      }
+    ],
     "position": "Pitcher",
     "pitchingStats": {
       "era": 2.75,
@@ -42,10 +52,15 @@
   },
 
   {
-    "player": "Josh Gibson",
+    "playerName": "Josh Gibson",
     "id": 3,
-    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
-    "team": "Homestead Grays",
+    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerTeam": [
+      {
+        "id": 32,
+        "name": "Homestead Grays"
+      }
+    ],
     "position": "Outfield",
     "pitchingStats": null,
     "battingStats": {
@@ -62,10 +77,15 @@
   },
 
   {
-    "player": "Cool Papa Bell",
+    "playerName": "Cool Papa Bell",
     "id": 4,
-    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
-    "team": "St. Louis Stars",
+    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerTeam": [
+      {
+        "id": 32,
+        "name": "St. Louis Stars"
+      }
+    ],
     "position": "Pitcher",
     "pitchingStats": {
       "era": 2.75,
@@ -83,10 +103,15 @@
   },
 
   {
-    "player": "Oscar Charleston",
+    "playerName": "Oscar Charleston",
     "id": 5,
-    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
-    "team": "Pittsburgh Crawfords",
+    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerTeam": [
+      {
+        "id": 35,
+        "name": "Pitsburgh Crawfords"
+      }
+    ],
     "position": "Outfield",
     "pitchingStats": null,
     "battingStats": {
@@ -103,10 +128,15 @@
   },
 
   {
-    "player": "Buck Leonard",
+    "playerName": "Buck Leonard",
     "id": 6,
-    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
-    "team": "Homestead Grays",
+    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerTeam": [
+      {
+        "id": 32,
+        "name": "Homestead Grays"
+      }
+    ],
     "position": "1st Base",
     "pitchingStats": null,
     "battingStats": {
@@ -123,10 +153,15 @@
   },
 
   {
-    "player": "Turkey Stearnes",
+    "playerName": "Turkey Stearnes",
     "id": 7,
-    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
-    "team": "Detroit Stars",
+    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerTeam": [
+      {
+        "id": 34,
+        "name": "Newark Eagles"
+      }
+    ],
     "position": "Outfield",
     "pitchingStats": null,
     "battingStats": {
@@ -143,10 +178,15 @@
   },
 
   {
-    "player": "Judy Johnson",
+    "playerName": "Judy Johnson",
     "id": 8,
-    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
-    "team": "Hilldale Daisies",
+    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerTeam": [
+      {
+        "id": 36,
+        "name": "Hilldale Daisies"
+      }
+    ],
     "position": "3rd Base",
     "pitchingStats": null,
     "battingStats": {
@@ -163,10 +203,15 @@
   },
 
   {
-    "player": "Mule Suttles",
+    "playerName": "Mule Suttles",
     "id": 9,
-    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
-    "team": "Newark Eagles",
+    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerTeam": [
+      {
+        "id": 34,
+        "name": "Newark Eagles"
+      }
+    ],
     "position": "1st Base",
     "pitchingStats": null,
     "battingStats": {
@@ -183,10 +228,15 @@
   },
 
   {
-    "player": "Ray Dandridge",
+    "playerName": "Ray Dandridge",
     "id": 10,
-    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
-    "team": "New York Cubans",
+    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerTeam": [
+      {
+        "id": 37,
+        "name": "New York Cubans"
+      }
+    ],
     "position": "2nd Base",
     "pitchingStats": null,
     "battingStats": {
@@ -203,10 +253,15 @@
   },
 
   {
-    "player": "Martin Dihigo",
+    "playerName": "Martin Dihigo",
     "id": 11,
-    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
-    "team": "New York Cubans",
+    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerTeam": [
+      {
+        "id": 37,
+        "name": "New York Cubans"
+      }
+    ],
     "position": "Shortstop",
     "pitchingStats": null,
     "battingStats": {
@@ -223,10 +278,15 @@
   },
 
   {
-    "player": "Hilton Smith",
+    "playerName": "Hilton Smith",
     "id": 12,
-    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
-    "team": "Kansas City Monarchs",
+    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerTeam": [
+      {
+        "id": 31,
+        "name": "Kansas City Monarchs"
+      }
+    ],
     "position": "Pitcher",
     "pitchingStats": {
       "era": 2.75,
@@ -244,10 +304,15 @@
   },
 
   {
-    "player": "Willie Wells",
+    "playerName": "Willie Wells",
     "id": 13,
-    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
-    "team": "St. Louis Stars",
+    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerTeam": [
+      {
+        "id": 33,
+        "name": "St. Louis Stars"
+      }
+    ],
     "position": "Shortstop",
     "pitchingStats": null,
     "battingStats": {
@@ -264,10 +329,15 @@
   },
 
   {
-    "player": "Pop Llyod",
+    "playerName": "Pop Llyod",
     "id": 14,
-    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
-    "team": "Hilldale Daisies",
+    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerTeam": [
+      {
+        "id": 36,
+        "name": "Hilldale Daisies"
+      }
+    ],
     "position": "2nd Base",
     "pitchingStats": null,
     "battingStats": {
@@ -284,10 +354,15 @@
   },
 
   {
-    "player": "Biz Mackey",
+    "playerName": "Biz Mackey",
     "id": 15,
-    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
-    "team": "Newark Eagles",
+    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerTeam": [
+      {
+        "id": 34,
+        "name": "Newark Eagles"
+      }
+    ],
     "position": "Catcher",
     "pitchingStats": null,
     "battingStats": {
@@ -304,10 +379,15 @@
   },
 
   {
-    "player": "Larry Doby",
+    "playerName": "Larry Doby",
     "id": 16,
-    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
-    "team": "Newark Eagles",
+    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerTeam": [
+      {
+        "id": 34,
+        "name": "Newark Eagles"
+      }
+    ],
     "position": "Outfield",
     "pitchingStats": null,
     "battingStats": {
@@ -324,10 +404,15 @@
   },
 
   {
-    "player": "Rap Dixon",
+    "playerName": "Rap Dixon",
     "id": 17,
-    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
-    "team": "Homestead Grays",
+    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerTeam": [
+      {
+        "id": 32,
+        "name": "Homestead Grays"
+      }
+    ],
     "position": "Outfield",
     "pitchingStats": null,
     "battingStats": {
@@ -344,10 +429,15 @@
   },
 
   {
-    "player": "Leon Day",
+    "playerName": "Leon Day",
     "id": 18,
-    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
-    "team": "Baltimore Elite Giants",
+    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerTeam": [
+      {
+        "id": 38,
+        "name": "Baltimore Elite Giants"
+      }
+    ],
     "position": "Outfield",
     "pitchingStats": null,
     "battingStats": {
@@ -364,10 +454,15 @@
   },
 
   {
-    "player": "Buck O'Neil",
+    "playerName": "Buck O'Neil",
     "id": 19,
-    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
-    "team": "Kansas City Monarchs",
+    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerTeam": [
+      {
+        "id": 31,
+        "name": "Kansas City Monarchs"
+      }
+    ],
     "position": "1st Base",
     "pitchingStats": null,
     "battingStats": {
@@ -384,10 +479,15 @@
   },
 
   {
-    "player": "John Henry, Pop, Lloyd",
+    "playerName": "John Henry, Pop, Lloyd",
     "id": 20,
-    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
-    "team": "Kansas City Monarchs",
+    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerTeam": [
+      {
+        "id": 31,
+        "name": "Kansas City Monarchs"
+      }
+    ],
     "position": "Shortstop",
     "pitchingStats": null,
     "battingStats": {
@@ -404,10 +504,15 @@
   },
 
   {
-    "player": "Willard Brown",
+    "playerName": "Willard Brown",
     "id": 21,
-    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
-    "team": "Kansas City Monarchs",
+    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerTeam": [
+      {
+        "id": 31,
+        "name": "Kansas City Monarchs"
+      }
+    ],
     "position": "Outfield",
     "pitchingStats": null,
     "battingStats": {
@@ -424,10 +529,15 @@
   },
 
   {
-    "player": "Ted, Double Duty, Radcliffe",
+    "playerName": "Ted, Double Duty, Radcliffe",
     "id": 22,
-    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
-    "team": "Chicago American Giants",
+    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerTeam": [
+      {
+        "id": 38,
+        "name": "Baltimore Elite Giants"
+      }
+    ],
     "position": "Catcher",
     "pitchingStats": null,
     "battingStats": {
@@ -444,10 +554,15 @@
   },
 
   {
-    "player": "Jud Wilson",
+    "playerName": "Jud Wilson",
     "id": 23,
-    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
-    "team": "Homestead Grays",
+    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerTeam": [
+      {
+        "id": 32,
+        "name": "Homestead Grays"
+      }
+    ],
     "position": "3rd Base",
     "pitchingStats": null,
     "battingStats": {
@@ -464,10 +579,15 @@
   },
 
   {
-    "player": "Monte Irvin",
+    "playerName": "Monte Irvin",
     "id": 24,
-    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
-    "team": "Newark Eagles",
+    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerTeam": [
+      {
+        "id": 34,
+        "name": "Newark Eagles"
+      }
+    ],
     "position": "Outfield",
     "pitchingStats": null,
     "battingStats": {
@@ -484,10 +604,15 @@
   },
 
   {
-    "player": "Jackie Robinson",
+    "playerName": "Jackie Robinson",
     "id": 25,
-    "playerImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
-    "team": "Kansas City Monarchs",
+    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerTeam": [
+      {
+        "id": 31,
+        "name": "Kansas City Monarchs"
+      }
+    ],
     "position": "Shortstop",
     "pitchingStats": null,
     "battingStats": {
