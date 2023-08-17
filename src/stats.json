@@ -10,18 +10,21 @@
       }
     ],
     "position": "Pitcher",
-    "pitchingStats": {
-      "era": 2.75,
-      "wins": 18,
-      "losses": 5,
-      "inningsPitched": 220.2,
-      "hitsAllowed": 175,
-      "walks": 45,
-      "strikeouts": 230,
-      "completeGames": 5,
-      "shutouts": 3,
-      "saves": 2
-    },
+    "pitchingStats": [
+      {
+        "id": 41,
+        "era": 2.75,
+        "wins": 18,
+        "losses": 5,
+        "inningsPitched": 220.2,
+        "hitsAllowed": 175,
+        "walks": 45,
+        "strikeouts": 230,
+        "completeGames": 5,
+        "shutouts": 3,
+        "saves": 2
+      }
+    ],
     "battingStats": null
   },
 
@@ -36,18 +39,21 @@
       }
     ],
     "position": "Pitcher",
-    "pitchingStats": {
-      "era": 2.75,
-      "wins": 18,
-      "losses": 5,
-      "inningsPitched": 220.2,
-      "hitsAllowed": 175,
-      "walks": 45,
-      "strikeouts": 230,
-      "completeGames": 5,
-      "shutouts": 3,
-      "saves": 2
-    },
+    "pitchingStats": [
+      {
+        "id": 41,
+        "era": 2.75,
+        "wins": 18,
+        "losses": 5,
+        "inningsPitched": 220.2,
+        "hitsAllowed": 175,
+        "walks": 45,
+        "strikeouts": 230,
+        "completeGames": 5,
+        "shutouts": 3,
+        "saves": 2
+      }
+    ],
     "battingStats": null
   },
 
@@ -63,17 +69,20 @@
     ],
     "position": "Outfield",
     "pitchingStats": null,
-    "battingStats": {
-      "avg": 0.248,
-      "obp": 0.32,
-      "slg": 0.45,
-      "hits": 100,
-      "hr": 12,
-      "rbi": 45,
-      "runs": 50,
-      "walks": 25,
-      "strikeouts": 70
-    }
+    "battingStats": [
+      {
+        "id": 42,
+        "avg": 0.32,
+        "obp": 0.41,
+        "slg": 0.62,
+        "hits": 180,
+        "hr": 35,
+        "rbi": 120,
+        "runs": 110,
+        "walks": 70,
+        "strikeouts": 75
+      }
+    ]
   },
 
   {
@@ -87,18 +96,21 @@
       }
     ],
     "position": "Pitcher",
-    "pitchingStats": {
-      "era": 2.75,
-      "wins": 18,
-      "losses": 5,
-      "inningsPitched": 220.2,
-      "hitsAllowed": 175,
-      "walks": 45,
-      "strikeouts": 230,
-      "completeGames": 5,
-      "shutouts": 3,
-      "saves": 2
-    },
+    "pitchingStats": [
+      {
+        "id": 41,
+        "era": 2.75,
+        "wins": 18,
+        "losses": 5,
+        "inningsPitched": 220.2,
+        "hitsAllowed": 175,
+        "walks": 45,
+        "strikeouts": 230,
+        "completeGames": 5,
+        "shutouts": 3,
+        "saves": 2
+      }
+    ],
     "battingStats": null
   },
 
@@ -114,17 +126,20 @@
     ],
     "position": "Outfield",
     "pitchingStats": null,
-    "battingStats": {
-      "avg": 0.32,
-      "obp": 0.41,
-      "slg": 0.62,
-      "hits": 180,
-      "hr": 35,
-      "rbi": 120,
-      "runs": 110,
-      "walks": 70,
-      "strikeouts": 75
-    }
+    "battingStats": [
+      {
+        "id": 42,
+        "avg": 0.32,
+        "obp": 0.41,
+        "slg": 0.62,
+        "hits": 180,
+        "hr": 35,
+        "rbi": 120,
+        "runs": 110,
+        "walks": 70,
+        "strikeouts": 75
+      }
+    ]
   },
 
   {
@@ -139,17 +154,20 @@
     ],
     "position": "1st Base",
     "pitchingStats": null,
-    "battingStats": {
-      "avg": 0.248,
-      "obp": 0.32,
-      "slg": 0.45,
-      "hits": 100,
-      "hr": 12,
-      "rbi": 45,
-      "runs": 50,
-      "walks": 25,
-      "strikeouts": 70
-    }
+    "battingStats": [
+      {
+        "id": 42,
+        "avg": 0.32,
+        "obp": 0.41,
+        "slg": 0.62,
+        "hits": 180,
+        "hr": 35,
+        "rbi": 120,
+        "runs": 110,
+        "walks": 70,
+        "strikeouts": 75
+      }
+    ]
   },
 
   {
@@ -164,17 +182,20 @@
     ],
     "position": "Outfield",
     "pitchingStats": null,
-    "battingStats": {
-      "avg": 0.32,
-      "obp": 0.41,
-      "slg": 0.62,
-      "hits": 180,
-      "hr": 35,
-      "rbi": 120,
-      "runs": 110,
-      "walks": 70,
-      "strikeouts": 75
-    }
+    "battingStats": [
+      {
+        "id": 42,
+        "avg": 0.32,
+        "obp": 0.41,
+        "slg": 0.62,
+        "hits": 180,
+        "hr": 35,
+        "rbi": 120,
+        "runs": 110,
+        "walks": 70,
+        "strikeouts": 75
+      }
+    ]
   },
 
   {
@@ -189,17 +210,20 @@
     ],
     "position": "3rd Base",
     "pitchingStats": null,
-    "battingStats": {
-      "avg": 0.32,
-      "obp": 0.41,
-      "slg": 0.62,
-      "hits": 180,
-      "hr": 35,
-      "rbi": 120,
-      "runs": 110,
-      "walks": 70,
-      "strikeouts": 75
-    }
+    "battingStats": [
+      {
+        "id": 42,
+        "avg": 0.32,
+        "obp": 0.41,
+        "slg": 0.62,
+        "hits": 180,
+        "hr": 35,
+        "rbi": 120,
+        "runs": 110,
+        "walks": 70,
+        "strikeouts": 75
+      }
+    ]
   },
 
   {
@@ -214,17 +238,20 @@
     ],
     "position": "1st Base",
     "pitchingStats": null,
-    "battingStats": {
-      "avg": 0.32,
-      "obp": 0.41,
-      "slg": 0.62,
-      "hits": 180,
-      "hr": 35,
-      "rbi": 120,
-      "runs": 110,
-      "walks": 70,
-      "strikeouts": 75
-    }
+    "battingStats": [
+      {
+        "id": 42,
+        "avg": 0.32,
+        "obp": 0.41,
+        "slg": 0.62,
+        "hits": 180,
+        "hr": 35,
+        "rbi": 120,
+        "runs": 110,
+        "walks": 70,
+        "strikeouts": 75
+      }
+    ]
   },
 
   {
@@ -239,17 +266,20 @@
     ],
     "position": "2nd Base",
     "pitchingStats": null,
-    "battingStats": {
-      "avg": 0.248,
-      "obp": 0.32,
-      "slg": 0.45,
-      "hits": 100,
-      "hr": 12,
-      "rbi": 45,
-      "runs": 50,
-      "walks": 25,
-      "strikeouts": 70
-    }
+    "battingStats": [
+      {
+        "id": 42,
+        "avg": 0.32,
+        "obp": 0.41,
+        "slg": 0.62,
+        "hits": 180,
+        "hr": 35,
+        "rbi": 120,
+        "runs": 110,
+        "walks": 70,
+        "strikeouts": 75
+      }
+    ]
   },
 
   {
@@ -264,17 +294,20 @@
     ],
     "position": "Shortstop",
     "pitchingStats": null,
-    "battingStats": {
-      "avg": 0.32,
-      "obp": 0.41,
-      "slg": 0.62,
-      "hits": 180,
-      "hr": 35,
-      "rbi": 120,
-      "runs": 110,
-      "walks": 70,
-      "strikeouts": 75
-    }
+    "battingStats": [
+      {
+        "id": 42,
+        "avg": 0.32,
+        "obp": 0.41,
+        "slg": 0.62,
+        "hits": 180,
+        "hr": 35,
+        "rbi": 120,
+        "runs": 110,
+        "walks": 70,
+        "strikeouts": 75
+      }
+    ]
   },
 
   {
@@ -288,18 +321,21 @@
       }
     ],
     "position": "Pitcher",
-    "pitchingStats": {
-      "era": 2.75,
-      "wins": 18,
-      "losses": 5,
-      "inningsPitched": 220.2,
-      "hitsAllowed": 175,
-      "walks": 45,
-      "strikeouts": 230,
-      "completeGames": 5,
-      "shutouts": 3,
-      "saves": 2
-    },
+    "pitchingStats": [
+      {
+        "id": 41,
+        "era": 2.75,
+        "wins": 18,
+        "losses": 5,
+        "inningsPitched": 220.2,
+        "hitsAllowed": 175,
+        "walks": 45,
+        "strikeouts": 230,
+        "completeGames": 5,
+        "shutouts": 3,
+        "saves": 2
+      }
+    ],
     "battingStats": null
   },
 
@@ -315,17 +351,20 @@
     ],
     "position": "Shortstop",
     "pitchingStats": null,
-    "battingStats": {
-      "avg": 0.248,
-      "obp": 0.32,
-      "slg": 0.45,
-      "hits": 100,
-      "hr": 12,
-      "rbi": 45,
-      "runs": 50,
-      "walks": 25,
-      "strikeouts": 70
-    }
+    "battingStats": [
+      {
+        "id": 42,
+        "avg": 0.32,
+        "obp": 0.41,
+        "slg": 0.62,
+        "hits": 180,
+        "hr": 35,
+        "rbi": 120,
+        "runs": 110,
+        "walks": 70,
+        "strikeouts": 75
+      }
+    ]
   },
 
   {
@@ -340,17 +379,20 @@
     ],
     "position": "2nd Base",
     "pitchingStats": null,
-    "battingStats": {
-      "avg": 0.32,
-      "obp": 0.41,
-      "slg": 0.62,
-      "hits": 180,
-      "hr": 35,
-      "rbi": 120,
-      "runs": 110,
-      "walks": 70,
-      "strikeouts": 75
-    }
+    "battingStats": [
+      {
+        "id": 42,
+        "avg": 0.32,
+        "obp": 0.41,
+        "slg": 0.62,
+        "hits": 180,
+        "hr": 35,
+        "rbi": 120,
+        "runs": 110,
+        "walks": 70,
+        "strikeouts": 75
+      }
+    ]
   },
 
   {
@@ -365,17 +407,20 @@
     ],
     "position": "Catcher",
     "pitchingStats": null,
-    "battingStats": {
-      "avg": 0.248,
-      "obp": 0.32,
-      "slg": 0.45,
-      "hits": 100,
-      "hr": 12,
-      "rbi": 45,
-      "runs": 50,
-      "walks": 25,
-      "strikeouts": 70
-    }
+    "battingStats": [
+      {
+        "id": 42,
+        "avg": 0.32,
+        "obp": 0.41,
+        "slg": 0.62,
+        "hits": 180,
+        "hr": 35,
+        "rbi": 120,
+        "runs": 110,
+        "walks": 70,
+        "strikeouts": 75
+      }
+    ]
   },
 
   {
@@ -390,17 +435,20 @@
     ],
     "position": "Outfield",
     "pitchingStats": null,
-    "battingStats": {
-      "avg": 0.32,
-      "obp": 0.41,
-      "slg": 0.62,
-      "hits": 180,
-      "hr": 35,
-      "rbi": 120,
-      "runs": 110,
-      "walks": 70,
-      "strikeouts": 75
-    }
+    "battingStats": [
+      {
+        "id": 42,
+        "avg": 0.32,
+        "obp": 0.41,
+        "slg": 0.62,
+        "hits": 180,
+        "hr": 35,
+        "rbi": 120,
+        "runs": 110,
+        "walks": 70,
+        "strikeouts": 75
+      }
+    ]
   },
 
   {
@@ -415,17 +463,20 @@
     ],
     "position": "Outfield",
     "pitchingStats": null,
-    "battingStats": {
-      "avg": 0.32,
-      "obp": 0.41,
-      "slg": 0.62,
-      "hits": 180,
-      "hr": 35,
-      "rbi": 120,
-      "runs": 110,
-      "walks": 70,
-      "strikeouts": 75
-    }
+    "battingStats": [
+      {
+        "id": 42,
+        "avg": 0.32,
+        "obp": 0.41,
+        "slg": 0.62,
+        "hits": 180,
+        "hr": 35,
+        "rbi": 120,
+        "runs": 110,
+        "walks": 70,
+        "strikeouts": 75
+      }
+    ]
   },
 
   {
@@ -440,17 +491,20 @@
     ],
     "position": "Outfield",
     "pitchingStats": null,
-    "battingStats": {
-      "avg": 0.32,
-      "obp": 0.41,
-      "slg": 0.62,
-      "hits": 180,
-      "hr": 35,
-      "rbi": 120,
-      "runs": 110,
-      "walks": 70,
-      "strikeouts": 75
-    }
+    "battingStats": [
+      {
+        "id": 42,
+        "avg": 0.32,
+        "obp": 0.41,
+        "slg": 0.62,
+        "hits": 180,
+        "hr": 35,
+        "rbi": 120,
+        "runs": 110,
+        "walks": 70,
+        "strikeouts": 75
+      }
+    ]
   },
 
   {
@@ -465,17 +519,20 @@
     ],
     "position": "1st Base",
     "pitchingStats": null,
-    "battingStats": {
-      "avg": 0.32,
-      "obp": 0.41,
-      "slg": 0.62,
-      "hits": 180,
-      "hr": 35,
-      "rbi": 120,
-      "runs": 110,
-      "walks": 70,
-      "strikeouts": 75
-    }
+    "battingStats": [
+      {
+        "id": 42,
+        "avg": 0.32,
+        "obp": 0.41,
+        "slg": 0.62,
+        "hits": 180,
+        "hr": 35,
+        "rbi": 120,
+        "runs": 110,
+        "walks": 70,
+        "strikeouts": 75
+      }
+    ]
   },
 
   {
@@ -490,17 +547,20 @@
     ],
     "position": "Shortstop",
     "pitchingStats": null,
-    "battingStats": {
-      "avg": 0.248,
-      "obp": 0.32,
-      "slg": 0.45,
-      "hits": 100,
-      "hr": 12,
-      "rbi": 45,
-      "runs": 50,
-      "walks": 25,
-      "strikeouts": 70
-    }
+    "battingStats": [
+      {
+        "id": 42,
+        "avg": 0.32,
+        "obp": 0.41,
+        "slg": 0.62,
+        "hits": 180,
+        "hr": 35,
+        "rbi": 120,
+        "runs": 110,
+        "walks": 70,
+        "strikeouts": 75
+      }
+    ]
   },
 
   {
@@ -515,17 +575,20 @@
     ],
     "position": "Outfield",
     "pitchingStats": null,
-    "battingStats": {
-      "avg": 0.32,
-      "obp": 0.41,
-      "slg": 0.62,
-      "hits": 180,
-      "hr": 35,
-      "rbi": 120,
-      "runs": 110,
-      "walks": 70,
-      "strikeouts": 75
-    }
+    "battingStats": [
+      {
+        "id": 42,
+        "avg": 0.32,
+        "obp": 0.41,
+        "slg": 0.62,
+        "hits": 180,
+        "hr": 35,
+        "rbi": 120,
+        "runs": 110,
+        "walks": 70,
+        "strikeouts": 75
+      }
+    ]
   },
 
   {
@@ -540,17 +603,20 @@
     ],
     "position": "Catcher",
     "pitchingStats": null,
-    "battingStats": {
-      "avg": 0.32,
-      "obp": 0.41,
-      "slg": 0.62,
-      "hits": 180,
-      "hr": 35,
-      "rbi": 120,
-      "runs": 110,
-      "walks": 70,
-      "strikeouts": 75
-    }
+    "battingStats": [
+      {
+        "id": 42,
+        "avg": 0.32,
+        "obp": 0.41,
+        "slg": 0.62,
+        "hits": 180,
+        "hr": 35,
+        "rbi": 120,
+        "runs": 110,
+        "walks": 70,
+        "strikeouts": 75
+      }
+    ]
   },
 
   {
@@ -565,17 +631,20 @@
     ],
     "position": "3rd Base",
     "pitchingStats": null,
-    "battingStats": {
-      "avg": 0.32,
-      "obp": 0.41,
-      "slg": 0.62,
-      "hits": 180,
-      "hr": 35,
-      "rbi": 120,
-      "runs": 110,
-      "walks": 70,
-      "strikeouts": 75
-    }
+    "battingStats": [
+      {
+        "id": 42,
+        "avg": 0.32,
+        "obp": 0.41,
+        "slg": 0.62,
+        "hits": 180,
+        "hr": 35,
+        "rbi": 120,
+        "runs": 110,
+        "walks": 70,
+        "strikeouts": 75
+      }
+    ]
   },
 
   {
@@ -590,17 +659,20 @@
     ],
     "position": "Outfield",
     "pitchingStats": null,
-    "battingStats": {
-      "avg": 0.32,
-      "obp": 0.41,
-      "slg": 0.62,
-      "hits": 180,
-      "hr": 35,
-      "rbi": 120,
-      "runs": 110,
-      "walks": 70,
-      "strikeouts": 75
-    }
+    "battingStats": [
+      {
+        "id": 42,
+        "avg": 0.32,
+        "obp": 0.41,
+        "slg": 0.62,
+        "hits": 180,
+        "hr": 35,
+        "rbi": 120,
+        "runs": 110,
+        "walks": 70,
+        "strikeouts": 75
+      }
+    ]
   },
 
   {
@@ -615,16 +687,19 @@
     ],
     "position": "Shortstop",
     "pitchingStats": null,
-    "battingStats": {
-      "avg": 0.32,
-      "obp": 0.41,
-      "slg": 0.62,
-      "hits": 180,
-      "hr": 35,
-      "rbi": 120,
-      "runs": 110,
-      "walks": 70,
-      "strikeouts": 75
-    }
+    "battingStats": [
+      {
+        "id": 42,
+        "avg": 0.32,
+        "obp": 0.41,
+        "slg": 0.62,
+        "hits": 180,
+        "hr": 35,
+        "rbi": 120,
+        "runs": 110,
+        "walks": 70,
+        "strikeouts": 75
+      }
+    ]
   }
 ]
