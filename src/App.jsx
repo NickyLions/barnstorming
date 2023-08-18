@@ -5,7 +5,7 @@ import Player from './components/Player'
 const App = () => {
   return (
     <div className="wrapper">
-      <h1>Baseball Players</h1>
+      <h1>Barn Storming Baseball</h1>
       <div className="player-list">
         {statsArray.map((player, index) => (
           <Player key={player.id} player={player} />

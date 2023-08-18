@@ -9,7 +9,12 @@
         "name": "Kansas City Monarchs"
       }
     ],
-    "position": "Pitcher",
+    "position": [
+      {
+        "id": 101,
+        "name": "Pitcher"
+      }
+    ],
     "playerStats": [
       {
         "id": 51,
@@ -40,7 +45,12 @@
         "name": "Kansas City Monarchs"
       }
     ],
-    "position": "Pitcher",
+    "position": [
+      {
+        "id": 101,
+        "name": "Pitcher"
+      }
+    ],
     "playerStats": [
       {
         "id": 51,
@@ -71,7 +81,12 @@
         "name": "Kansas City Monarchs"
       }
     ],
-    "position": "Pitcher",
+    "position": [
+      {
+        "id": 101,
+        "name": "Pitcher"
+      }
+    ],
     "playerStats": [
       {
         "id": 51,
@@ -102,7 +117,12 @@
         "name": "St. Louis Stars"
       }
     ],
-    "position": "Pitcher",
+    "position": [
+      {
+        "id": 101,
+        "name": "Pitcher"
+      }
+    ],
     "playerStats": [
       {
         "id": 51,
@@ -133,7 +153,12 @@
         "name": "Homestead Grays"
       }
     ],
-    "position": "Catcher",
+    "position": [
+      {
+        "id": 102,
+        "name": "Catcher"
+      }
+    ],
     "playerStats": [
       {
         "id": 55,
@@ -164,7 +189,12 @@
         "name": "Pitsburgh Crawfords"
       }
     ],
-    "position": "Outfield",
+    "position": [
+      {
+        "id": 103,
+        "name": "Outfield"
+      }
+    ],
     "playerStats": [
       {
         "id": 55,
@@ -195,7 +225,12 @@
         "name": "Homestead Grays"
       }
     ],
-    "position": "1st Base",
+    "position": [
+      {
+        "id": 104,
+        "name": "First Base"
+      }
+    ],
     "playerStats": [
       {
         "id": 55,
@@ -226,7 +261,12 @@
         "name": "Newark Eagles"
       }
     ],
-    "position": "Outfield",
+    "position": [
+      {
+        "id": 103,
+        "name": "Outfieled"
+      }
+    ],
     "playerStats": [
       {
         "id": 55,
@@ -256,7 +296,12 @@
         "name": "Hilldale Daisies"
       }
     ],
-    "position": "3rd Base",
+    "position": [
+      {
+        "id": 105,
+        "name": "3rd Base"
+      }
+    ],
     "playerStats": [
       {
         "id": 55,
@@ -287,7 +332,12 @@
         "name": "Newark Eagles"
       }
     ],
-    "position": "1st Base",
+    "position": [
+      {
+        "id": 104,
+        "name": "1st Base"
+      }
+    ],
     "playerStats": [
       {
         "id": 55,
@@ -318,7 +368,12 @@
         "name": "New York Cubans"
       }
     ],
-    "position": "2nd Base",
+    "position": [
+      {
+        "id": 106,
+        "name": "2nd Base"
+      }
+    ],
     "playerStats": [
       {
         "id": 55,
@@ -349,7 +404,12 @@
         "name": "New York Cubans"
       }
     ],
-    "position": "Shortstop",
+    "position": [
+      {
+        "id": 107,
+        "name": "Shortstop"
+      }
+    ],
     "playerStats": [
       {
         "id": 55,
@@ -380,7 +440,12 @@
         "name": "St. Louis Stars"
       }
     ],
-    "position": "Shortstop",
+    "position": [
+      {
+        "id": 107,
+        "name": "Shortstop"
+      }
+    ],
     "playerStats": [
       {
         "id": 55,
@@ -411,7 +476,12 @@
         "name": "Hilldale Daisies"
       }
     ],
-    "position": "2nd Base",
+    "position": [
+      {
+        "id": 106,
+        "name": "2nd Base"
+      }
+    ],
     "playerStats": [
       {
         "id": 55,
@@ -442,7 +512,12 @@
         "name": "Newark Eagles"
       }
     ],
-    "position": "Catcher",
+    "position": [
+      {
+        "id": 102,
+        "name": "Catcher"
+      }
+    ],
     "playerStats": [
       {
         "id": 55,
@@ -473,7 +548,12 @@
         "name": "Newark Eagles"
       }
     ],
-    "position": "Outfield",
+    "position": [
+      {
+        "id": 103,
+        "name": "Outfield"
+      }
+    ],
     "playerStats": [
       {
         "id": 55,
@@ -504,7 +584,12 @@
         "name": "Homestead Grays"
       }
     ],
-    "position": "Outfield",
+    "position": [
+      {
+        "id": 106,
+        "name": "Outfield"
+      }
+    ],
     "playerStats": [
       {
         "id": 55,
@@ -535,7 +620,12 @@
         "name": "Baltimore Elite Giants"
       }
     ],
-    "position": "Outfield",
+    "position": [
+      {
+        "id": 106,
+        "name": "Outfield"
+      }
+    ],
     "playerStats": [
       {
         "id": 55,
@@ -566,7 +656,12 @@
         "name": "Kansas City Monarchs"
       }
     ],
-    "position": "1st Base",
+    "position": [
+      {
+        "id": 104,
+        "name": "1st Base"
+      }
+    ],
     "playerStats": [
       {
         "id": 55,
@@ -597,7 +692,12 @@
         "name": "Indianapolis Clowns"
       }
     ],
-    "position": "Shortstop",
+    "position": [
+      {
+        "id": 107,
+        "name": "Shortstop"
+      }
+    ],
     "playerStats": [
       {
         "id": 55,
@@ -628,7 +728,12 @@
         "name": "Kansas City Monarchs"
       }
     ],
-    "position": "Outfield",
+    "position": [
+      {
+        "id": 103,
+        "name": "Outfield"
+      }
+    ],
     "playerStats": [
       {
         "id": 55,
@@ -659,7 +764,12 @@
         "name": "Baltimore Elite Giants"
       }
     ],
-    "position": "Catcher",
+    "position": [
+      {
+        "id": 102,
+        "name": "Catcher"
+      }
+    ],
     "playerStats": [
       {
         "id": 55,
@@ -690,7 +800,12 @@
         "name": "Homestead Grays"
       }
     ],
-    "position": "3rd Base",
+    "position": [
+      {
+        "id": 105,
+        "name": "3rd Base"
+      }
+    ],
     "playerStats": [
       {
         "id": 55,
@@ -721,7 +836,12 @@
         "name": "Newark Eagles"
       }
     ],
-    "position": "Outfield",
+    "position": [
+      {
+        "id": 103,
+        "name": "Outfield"
+      }
+    ],
     "playerStats": [
       {
         "id": 55,
@@ -752,7 +872,12 @@
         "name": "Kansas City Monarchs"
       }
     ],
-    "position": "Shortstop",
+    "position": [
+      {
+        "id": 107,
+        "name": "Shortstop"
+      }
+    ],
     "pitchingStats": null,
     "playerStats": [
       {

@@ -1,17 +1,28 @@
 import Team from './Team'
 import Statistics from './Statistics'
+import Position from './Position'
 
 const Player = ({ player }) => {
   return (
+    //Player Card//
     <div className="player-card">
-      <h2 className="player-name">{player.playerName}</h2>
-      <img src={player.playerNameImage}></img>
-      <h5 className="player-position">{player.position}</h5>
-      <div className="team">
-        {player.playerTeam.map((team) => (
-          <Team key={team.id} team={team} />
-        ))}
+      <div className="player-header">
+        <h2>{player.playerName}</h2>
+        <h3>
+          {player.playerTeam.map((team) => (
+            <Team key={team.id} team={team} />
+          ))}
+        </h3>
       </div>
+
+      <img src={player.playerNameImage}></img>
+
+      <h4>
+        {player.position.map((position) => (
+          <Position key={position.id} position={position} />
+        ))}
+      </h4>
+
       <div className="stats">
         {player.playerStats.map((statistics) => (
           <Statistics key={statistics.id} statistics={statistics} />
