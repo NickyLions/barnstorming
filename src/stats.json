@@ -2,7 +2,7 @@
   {
     "playerName": "Satchel Paige",
     "id": 1,
-    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerNameImage": "https://www.nicpirolo.com/bb_players/Satchel-Paige.png",
     "playerTeam": [
       {
         "id": 31,
@@ -33,7 +33,7 @@
   {
     "playerName": "Bullet Rogan",
     "id": 2,
-    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerNameImage": "https://www.nicpirolo.com/bb_players/Bullet-Rogan.png",
     "playerTeam": [
       {
         "id": 31,
@@ -64,7 +64,7 @@
   {
     "playerName": "Hilton Smith",
     "id": 12,
-    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerNameImage": "https://www.nicpirolo.com/bb_players/Hilton-Smith.png",
     "playerTeam": [
       {
         "id": 31,
@@ -95,7 +95,7 @@
   {
     "playerName": "Cool Papa Bell",
     "id": 4,
-    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerNameImage": "https://www.nicpirolo.com/bb_players/Cool-Papa-Bell.png",
     "playerTeam": [
       {
         "id": 32,
@@ -126,14 +126,14 @@
   {
     "playerName": "Josh Gibson",
     "id": 3,
-    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerNameImage": "https://www.nicpirolo.com/bb_players/Josh-Gibson.png",
     "playerTeam": [
       {
         "id": 32,
         "name": "Homestead Grays"
       }
     ],
-    "position": "Outfield",
+    "position": "Catcher",
     "playerStats": [
       {
         "id": 55,
@@ -157,7 +157,7 @@
   {
     "playerName": "Oscar Charleston",
     "id": 5,
-    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerNameImage": "https://www.nicpirolo.com/bb_players/oscar-charleston.png",
     "playerTeam": [
       {
         "id": 35,
@@ -188,7 +188,7 @@
   {
     "playerName": "Buck Leonard",
     "id": 6,
-    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerNameImage": "https://www.nicpirolo.com/bb_players/buck-leonard.png",
     "playerTeam": [
       {
         "id": 32,
@@ -219,7 +219,7 @@
   {
     "playerName": "Turkey Stearnes",
     "id": 7,
-    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerNameImage": "https://www.nicpirolo.com/bb_players/Turkey-Stearnes.png",
     "playerTeam": [
       {
         "id": 34,
@@ -249,7 +249,7 @@
   {
     "playerName": "Judy Johnson",
     "id": 8,
-    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerNameImage": "https://www.nicpirolo.com/bb_players/judy-johnson.png",
     "playerTeam": [
       {
         "id": 36,
@@ -280,7 +280,7 @@
   {
     "playerName": "Mule Suttles",
     "id": 9,
-    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerNameImage": "https://www.nicpirolo.com/bb_players/Mule-Suttles.png",
     "playerTeam": [
       {
         "id": 34,
@@ -311,7 +311,7 @@
   {
     "playerName": "Ray Dandridge",
     "id": 10,
-    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerNameImage": "https://www.nicpirolo.com/bb_players/Ray-Dandridge.png",
     "playerTeam": [
       {
         "id": 37,
@@ -342,7 +342,7 @@
   {
     "playerName": "Martin Dihigo",
     "id": 11,
-    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerNameImage": "https://www.nicpirolo.com/bb_players/Martin-Dihigo.png",
     "playerTeam": [
       {
         "id": 37,
@@ -373,7 +373,7 @@
   {
     "playerName": "Willie Wells",
     "id": 13,
-    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerNameImage": "https://www.nicpirolo.com/bb_players/Willie-Wells.png",
     "playerTeam": [
       {
         "id": 33,
@@ -404,7 +404,7 @@
   {
     "playerName": "Pop Llyod",
     "id": 14,
-    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerNameImage": "https://www.nicpirolo.com/bb_players/Pop-Lloyd.png",
     "playerTeam": [
       {
         "id": 36,
@@ -435,7 +435,7 @@
   {
     "playerName": "Biz Mackey",
     "id": 15,
-    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerNameImage": "https://www.nicpirolo.com/bb_players/Biz-Mackey.png",
     "playerTeam": [
       {
         "id": 34,
@@ -466,7 +466,7 @@
   {
     "playerName": "Larry Doby",
     "id": 16,
-    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerNameImage": "https://www.nicpirolo.com/bb_players/Larry-Doby.png",
     "playerTeam": [
       {
         "id": 34,
@@ -497,7 +497,7 @@
   {
     "playerName": "Rap Dixon",
     "id": 17,
-    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerNameImage": "https://www.nicpirolo.com/bb_players/Rap-Dixon.png",
     "playerTeam": [
       {
         "id": 32,
@@ -528,7 +528,7 @@
   {
     "playerName": "Leon Day",
     "id": 18,
-    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerNameImage": "https://www.nicpirolo.com/bb_players/leon-day.png",
     "playerTeam": [
       {
         "id": 38,
@@ -559,7 +559,7 @@
   {
     "playerName": "Buck O'Neil",
     "id": 19,
-    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerNameImage": "https://www.nicpirolo.com/bb_players/Buck-ONeil.png",
     "playerTeam": [
       {
         "id": 31,
@@ -586,14 +586,15 @@
       }
     ]
   },
+
   {
-    "playerName": "John Henry, Pop, Lloyd",
+    "playerName": "Hank Aaron",
     "id": 20,
-    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerNameImage": "https://www.nicpirolo.com/bb_players/Hank-Aaron.png",
     "playerTeam": [
       {
-        "id": 31,
-        "name": "Kansas City Monarchs"
+        "id": 61,
+        "name": "Indianapolis Clowns"
       }
     ],
     "position": "Shortstop",
@@ -620,7 +621,7 @@
   {
     "playerName": "Willard Brown",
     "id": 21,
-    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerNameImage": "https://www.nicpirolo.com/bb_players/Willard-Brown.png",
     "playerTeam": [
       {
         "id": 31,
@@ -649,9 +650,9 @@
   },
 
   {
-    "playerName": "Ted, Double Duty, Radcliffe",
+    "playerName": "Double Duty Radcliffe",
     "id": 22,
-    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerNameImage": "https://www.nicpirolo.com/bb_players/Double-Duty-Radcliff.png",
     "playerTeam": [
       {
         "id": 38,
@@ -682,7 +683,7 @@
   {
     "playerName": "Jud Wilson",
     "id": 23,
-    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerNameImage": "https://www.nicpirolo.com/bb_players/Jud-Wilson.png",
     "playerTeam": [
       {
         "id": 32,
@@ -713,7 +714,7 @@
   {
     "playerName": "Monte Irvin",
     "id": 24,
-    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerNameImage": "https://www.nicpirolo.com/bb_players/Monte-Irvin.png",
     "playerTeam": [
       {
         "id": 34,
@@ -744,7 +745,7 @@
   {
     "playerName": "Jackie Robinson",
     "id": 25,
-    "playerNameImage": "https://americanhistory.si.edu/sites/default/files/AHB2014q080481.jpg",
+    "playerNameImage": "https://www.nicpirolo.com/bb_players/Jackie-Robinson.png",
     "playerTeam": [
       {
         "id": 31,
