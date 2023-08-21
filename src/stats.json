@@ -629,19 +629,19 @@
     "playerStats": [
       {
         "id": 55,
-        "avg": "AVG: 0.32"
+        "avg": "AVG: 0.358"
       },
       {
         "id": 56,
-        "rbi": "RBI: 120"
+        "rbi": "RBI: 420"
       },
       {
         "id": 57,
-        "hr": "HR: 35"
+        "hr": "HR: 135"
       },
       {
         "id": 58,
-        "runs": "Runs: 110"
+        "runs": "Runs: 409"
       }
     ]
   },
@@ -665,19 +665,19 @@
     "playerStats": [
       {
         "id": 55,
-        "avg": "AVG: 0.32"
+        "avg": "AVG: 0.256"
       },
       {
         "id": 56,
-        "rbi": "RBI: 120"
+        "rbi": "RBI: 185"
       },
       {
         "id": 57,
-        "hr": "HR: 35"
+        "hr": "HR: 12"
       },
       {
         "id": 58,
-        "runs": "Runs: 110"
+        "runs": "Runs: 218"
       }
     ]
   },
@@ -694,26 +694,26 @@
     ],
     "position": [
       {
-        "id": 107,
-        "name": "Shortstop"
+        "id": 106,
+        "name": "Outfield"
       }
     ],
     "playerStats": [
       {
         "id": 55,
-        "avg": "AVG: 0.32"
+        "avg": "AVG: 0.305"
       },
       {
         "id": 56,
-        "rbi": "RBI: 120"
+        "rbi": "RBI: 2297"
       },
       {
         "id": 57,
-        "hr": "HR: 35"
+        "hr": "HR: 755"
       },
       {
         "id": 58,
-        "runs": "Runs: 110"
+        "runs": "Runs: 2174"
       }
     ]
   },
@@ -737,19 +737,19 @@
     "playerStats": [
       {
         "id": 55,
-        "avg": "AVG: 0.32"
+        "avg": "AVG: 0.351"
       },
       {
         "id": 56,
-        "rbi": "RBI: 120"
+        "rbi": "RBI: 391"
       },
       {
         "id": 57,
-        "hr": "HR: 35"
+        "hr": "HR: 54"
       },
       {
         "id": 58,
-        "runs": "Runs: 110"
+        "runs": "Runs: 332"
       }
     ]
   },
@@ -773,19 +773,19 @@
     "playerStats": [
       {
         "id": 55,
-        "avg": "AVG: 0.32"
+        "avg": "AVG: 0.271"
       },
       {
         "id": 56,
-        "rbi": "RBI: 120"
+        "rbi": "RBI: 187"
       },
       {
         "id": 57,
-        "hr": "HR: 35"
+        "hr": "HR: 17"
       },
       {
         "id": 58,
-        "runs": "Runs: 110"
+        "runs": "Runs: 160"
       }
     ]
   },
@@ -809,19 +809,19 @@
     "playerStats": [
       {
         "id": 55,
-        "avg": "AVG: 0.32"
+        "avg": "AVG: 0.350"
       },
       {
         "id": 56,
-        "rbi": "RBI: 120"
+        "rbi": "RBI: 728"
       },
       {
         "id": 57,
-        "hr": "HR: 35"
+        "hr": "HR: 77"
       },
       {
         "id": 58,
-        "runs": "Runs: 110"
+        "runs": "Runs: 625"
       }
     ]
   },
@@ -845,19 +845,19 @@
     "playerStats": [
       {
         "id": 55,
-        "avg": "AVG: 0.32"
+        "avg": "AVG: 0.305"
       },
       {
         "id": 56,
-        "rbi": "RBI: 120"
+        "rbi": "RBI: 684"
       },
       {
         "id": 57,
-        "hr": "HR: 35"
+        "hr": "HR: 139"
       },
       {
         "id": 58,
-        "runs": "Runs: 110"
+        "runs": "Runs: 580"
       }
     ]
   },
@@ -882,19 +882,19 @@
     "playerStats": [
       {
         "id": 55,
-        "avg": "AVG: 0.32"
+        "avg": "AVG: 0.313"
       },
       {
         "id": 56,
-        "rbi": "RBI: 120"
+        "rbi": "RBI: 761"
       },
       {
         "id": 57,
-        "hr": "HR: 35"
+        "hr": "HR: 141"
       },
       {
         "id": 58,
-        "runs": "Runs: 110"
+        "runs": "Runs: 972"
       }
     ]
   }
