@@ -377,19 +377,19 @@
     "playerStats": [
       {
         "id": 55,
-        "avg": "AVG: 0.32"
+        "avg": "AVG: 0.319"
       },
       {
         "id": 56,
-        "rbi": "RBI: 120"
+        "rbi": "RBI: 146"
       },
       {
         "id": 57,
-        "hr": "HR: 35"
+        "hr": "HR: 4"
       },
       {
         "id": 58,
-        "runs": "Runs: 110"
+        "runs": "Runs: 144"
       }
     ]
   },
@@ -413,19 +413,19 @@
     "playerStats": [
       {
         "id": 55,
-        "avg": "AVG: 0.32"
+        "avg": "AVG: 0.307"
       },
       {
         "id": 56,
-        "rbi": "RBI: 120"
+        "rbi": "RBI: 309"
       },
       {
         "id": 57,
-        "hr": "HR: 35"
+        "hr": "HR: 68"
       },
       {
         "id": 58,
-        "runs": "Runs: 110"
+        "runs": "Runs: 290"
       }
     ]
   },
@@ -449,19 +449,19 @@
     "playerStats": [
       {
         "id": 55,
-        "avg": "AVG: 0.32"
+        "avg": "AVG: 0.330"
       },
       {
         "id": 56,
-        "rbi": "RBI: 120"
+        "rbi": "RBI: 873"
       },
       {
         "id": 57,
-        "hr": "HR: 35"
+        "hr": "HR: 140"
       },
       {
         "id": 58,
-        "runs": "Runs: 110"
+        "runs": "Runs: 932"
       }
     ]
   },
@@ -485,19 +485,19 @@
     "playerStats": [
       {
         "id": 55,
-        "avg": "AVG: 0.32"
+        "avg": "AVG: 0.349"
       },
       {
         "id": 56,
-        "rbi": "RBI: 120"
+        "rbi": "RBI: 308"
       },
       {
         "id": 57,
-        "hr": "HR: 35"
+        "hr": "HR: 16"
       },
       {
         "id": 58,
-        "runs": "Runs: 110"
+        "runs": "Runs: 297"
       }
     ]
   },
@@ -521,19 +521,19 @@
     "playerStats": [
       {
         "id": 55,
-        "avg": "AVG: 0.32"
+        "avg": "AVG: 0.328"
       },
       {
         "id": 56,
-        "rbi": "RBI: 120"
+        "rbi": "RBI: 604"
       },
       {
         "id": 57,
-        "hr": "HR: 35"
+        "hr": "HR: 52"
       },
       {
         "id": 58,
-        "runs": "Runs: 110"
+        "runs": "Runs: 497"
       }
     ]
   },
@@ -557,19 +557,19 @@
     "playerStats": [
       {
         "id": 55,
-        "avg": "AVG: 0.32"
+        "avg": "AVG: 0.288"
       },
       {
         "id": 56,
-        "rbi": "RBI: 120"
+        "rbi": "RBI: 1099"
       },
       {
         "id": 57,
-        "hr": "HR: 35"
+        "hr": "HR: 273"
       },
       {
         "id": 58,
-        "runs": "Runs: 110"
+        "runs": "Runs: 1080"
       }
     ]
   },
@@ -593,19 +593,19 @@
     "playerStats": [
       {
         "id": 55,
-        "avg": "AVG: 0.32"
+        "avg": "AVG: 0.336"
       },
       {
         "id": 56,
-        "rbi": "RBI: 120"
+        "rbi": "RBI: 352"
       },
       {
         "id": 57,
-        "hr": "HR: 35"
+        "hr": "HR: 58"
       },
       {
         "id": 58,
-        "runs": "Runs: 110"
+        "runs": "Runs: 376"
       }
     ]
   },
