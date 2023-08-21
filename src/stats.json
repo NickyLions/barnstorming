@@ -22,15 +22,15 @@
       },
       {
         "id": 52,
-        "wins": "Wins: 20"
+        "wins": "Wins: 124"
       },
       {
         "id": 53,
-        "loses": "Loses: 3"
+        "loses": "Loses: 82"
       },
       {
         "id": 54,
-        "strikeouts": "SO: 5"
+        "strikeouts": "SO: 1501"
       }
     ]
   },
@@ -54,19 +54,19 @@
     "playerStats": [
       {
         "id": 51,
-        "era": "ERA: 2.1"
+        "era": "ERA: 2.65"
       },
       {
         "id": 52,
-        "wins": "Wins: 20"
+        "wins": "Wins: 120"
       },
       {
         "id": 53,
-        "loses": "Loses: 3"
+        "loses": "Loses: 52"
       },
       {
         "id": 54,
-        "strikeouts": "SO: 5"
+        "strikeouts": "SO: 918"
       }
     ]
   },
@@ -90,19 +90,19 @@
     "playerStats": [
       {
         "id": 51,
-        "era": "ERA: 2.1"
+        "era": "ERA: 2.92"
       },
       {
         "id": 52,
-        "wins": "Wins: 20"
+        "wins": "Wins: 70"
       },
       {
         "id": 53,
-        "loses": "Loses: 3"
+        "loses": "Loses: 38"
       },
       {
         "id": 54,
-        "strikeouts": "SO: 5"
+        "strikeouts": "SO: 594"
       }
     ]
   },
@@ -130,15 +130,15 @@
       },
       {
         "id": 52,
-        "wins": "Wins: 20"
+        "wins": "Wins: 181"
       },
       {
         "id": 53,
-        "loses": "Loses: 3"
+        "loses": "Loses: 70"
       },
       {
         "id": 54,
-        "strikeouts": "SO: 5"
+        "strikeouts": "SO: 688"
       }
     ]
   },
@@ -162,19 +162,19 @@
     "playerStats": [
       {
         "id": 55,
-        "avg": "AVG: 0.32"
+        "avg": "AVG: 0.373"
       },
       {
         "id": 56,
-        "rbi": "RBI: 120"
+        "rbi": "RBI: 733"
       },
       {
         "id": 57,
-        "hr": "HR: 35"
+        "hr": "HR: 166"
       },
       {
         "id": 58,
-        "runs": "Runs: 110"
+        "runs": "Runs: 612"
       }
     ]
   },
@@ -198,19 +198,19 @@
     "playerStats": [
       {
         "id": 55,
-        "avg": "AVG: 0.32"
+        "avg": "AVG: 0.365"
       },
       {
         "id": 56,
-        "rbi": "RBI: 120"
+        "rbi": "RBI: 853"
       },
       {
         "id": 57,
-        "hr": "HR: 35"
+        "hr": "HR: 143"
       },
       {
         "id": 58,
-        "runs": "Runs: 110"
+        "runs": "Runs: 854"
       }
     ]
   },
@@ -234,19 +234,19 @@
     "playerStats": [
       {
         "id": 55,
-        "avg": "AVG: 0.32"
+        "avg": "AVG: 0.346"
       },
       {
         "id": 56,
-        "rbi": "RBI: 120"
+        "rbi": "RBI: 548"
       },
       {
         "id": 57,
-        "hr": "HR: 35"
+        "hr": "HR: 97"
       },
       {
         "id": 58,
-        "runs": "Runs: 110"
+        "runs": "Runs: 549"
       }
     ]
   },
@@ -270,19 +270,19 @@
     "playerStats": [
       {
         "id": 55,
-        "avg": "AVG: 0.32"
+        "avg": "AVG: 0.348"
       },
       {
         "id": 56,
-        "rbi": "RBI: 120"
+        "rbi": "RBI: 1009"
       },
       {
         "id": 57,
-        "hr": "HR: 35"
+        "hr": "HR: 187"
       },
       {
         "id": 58,
-        "runs": "Runs: 110"
+        "runs": "Runs: 917"
       }
     ]
   },
@@ -305,19 +305,19 @@
     "playerStats": [
       {
         "id": 55,
-        "avg": "AVG: 0.32"
+        "avg": "AVG: 0.304"
       },
       {
         "id": 56,
-        "rbi": "RBI: 120"
+        "rbi": "RBI: 457"
       },
       {
         "id": 57,
-        "hr": "HR: 35"
+        "hr": "HR: 25"
       },
       {
         "id": 58,
-        "runs": "Runs: 110"
+        "runs": "Runs: 476"
       }
     ]
   },
@@ -341,19 +341,19 @@
     "playerStats": [
       {
         "id": 55,
-        "avg": "AVG: 0.32"
+        "avg": "AVG: 0.339"
       },
       {
         "id": 56,
-        "rbi": "RBI: 120"
+        "rbi": "RBI: 883"
       },
       {
         "id": 57,
-        "hr": "HR: 35"
+        "hr": "HR: 180"
       },
       {
         "id": 58,
-        "runs": "Runs: 110"
+        "runs": "Runs: 720"
       }
     ]
   },
